@@ -9,7 +9,7 @@ client = pymongo.MongoClient("localhost", 27017)
 # getting the table of the  
 db = client.acm_aminer
 # list of journal names
-journal_names = open('../../output/ACM_Elsevier_Journal_list.txt','r').readlines()
+journal_names = open('../output/ACM_Elsevier_journal_list_curated_v2','r').readlines()
 #author_names = open("../data/")
 data = {}
 
@@ -23,7 +23,6 @@ for article in article_list:
 	data[article['index']] = dict(article)
 	try:
 		if article['publication'] not in total_cites:
-			print(article['publication'])
 			total_cites[article['publication']] = 0
 			self_cites[article['publication']] = 0
 			paper_count[article['publication']] = 1
@@ -46,16 +45,17 @@ for element in data:
 		if jname == data[element]['publication']:
 			self_cites[jname] += 1
 			
-with open('../../output/NLIQ.txt','w') as outfile:
+with open('../output/NLIQ.txt','w') as outfile:
 	for name in journal_names:
 		try:
-			selfc = self_cites[name.strip('\n')]
-			total = total_cites[name.strip('\n')]
+			selfc = self_cites[name.strip('\n').lower()]
+			total = total_cites[name.strip('\n').lower()]
 			if total!=0:
 				quotient = (total - selfc)/(total*1.0)
 			else:
 				quotient = 0
-			print(name.strip('\n')+' '+str(total)+' '+str(selfc)+' '+str(quotient) +' '+str(paper_count[name.strip('\n')]) )
-			outfile.write(str(quotient) + '\t' + str(paper_count[name.strip('\n')])+'\n')
+			print(name.strip('\n')+'\t'+str(total)+'\t'+str(selfc)+'\t'+str(quotient) +'\t'+str(paper_count[name.strip('\n').lower()]))
+			outfile.write(name.strip('\n')+ ',' +str(quotient) + ',' + str(paper_count[name.strip('\n').lower()])+'\n')
 		except KeyError:
 			pass
+		#outfile.write(name.strip('\n')+ ',' +str(quotient) + ',' + str(paper_count[name.strip('\n').lower()])+'\n')

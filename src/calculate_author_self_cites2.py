@@ -46,7 +46,6 @@ system("brew services start mongodb")
 
 print(len(article_list))
 for article in article_list:
-    count += 1
     data[article['index']] = dict(article)
     try:
         if article['publication'] not in journal_list:
@@ -68,20 +67,20 @@ for article in article_list:
     count += 1
     print('article ' + str(count) + ' done')
 
-with open('../../data/OCQ_temp_data/Journal_author.json','w') as outfile:
+with open('../data/OCQ_temp_data/Journal_author.json','w') as outfile:
     json.dump(journal_author_dict,outfile)
 
-with open('../../data/OCQ_temp_data/author_selfcites.json','w') as outfile:
+with open('../data/OCQ_temp_data/author_selfcites.json','w') as outfile:
     json.dump(author_self_cites,outfile)
 
-with open('../../data/OCQ_temp_data/author_total_cites.json','w') as outfile:
+with open('../data/OCQ_temp_data/author_total_cites.json','w') as outfile:
     json.dump(author_total_cites,outfile)
 
 journal_dict = {'list':journal_list}
-with open('../../data/OCQ_temp_data/journal_list.json','w') as outfile:
+with open('../data/OCQ_temp_data/journal_list.json','w') as outfile:
     json.dump(journal_dict,outfile)
 
-with open('../../data/OCQ_temp_data/data.json','w') as outfile:
+with open('../data/OCQ_temp_data/data.json','w') as outfile:
     json.dump({'data':data},outfile)
 
 print("calculating the citation counts")
@@ -104,22 +103,24 @@ for element in data:
         except Exception:
             pass
 
-with open('../../data/OCQ_temp_data/author_selfcites.json','w') as outfile:
+with open('../data/OCQ_temp_data/author_selfcites.json','w') as outfile:
     json.dump(author_self_cites,outfile)
 
-with open('../../data/OCQ_temp_data/author_total_cites.json','w') as outfile:
+with open('../data/OCQ_temp_data/author_total_cites.json','w') as outfile:
     json.dump(author_total_cites,outfile)
 
-with open('../../output/calc_ocq.csv','w') as outfile:
-    for journal in journal_list:
+journal_names = open('../output/ACM_Elsevier_journal_list_curated_v2','r').readlines()
+
+with open('../output/calc_ocq.csv','w') as outfile:
+    for journal in journal_names:
         total_quotient = 0.0
         normalized_quotient = 0.0
-        for author in journal_author_dict[journal]:
+        for author in journal_author_dict[journal.strip('\n').lower()]:
             if author_total_cites[author]!=0:
                 quotient = (author_total_cites[author] - author_self_cites[author])/(1.0 * author_total_cites[author])
                 total_quotient += quotient
         if total_quotient!=0:
-            normalized_quotient = total_quotient/len(journal_author_dict[journal])
+            normalized_quotient = total_quotient/len(journal_author_dict[journal.strip('\n').lower()])
         outfile.write(journal + ',' + normalized_quotient + '\n')
         print(journal + ',' + normalized_quotient + '\n')
 # with open('../../output/calc_ocq.csv','w') as outfile:
