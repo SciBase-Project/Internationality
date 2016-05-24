@@ -29,6 +29,14 @@ client = pymongo.MongoClient("localhost", 27017)
 # getting the table of the
 db = client.acm_aminer
 
+with open('../data/IEEE_ACM_Journal_Map.json','r') as infile:
+    jmap = json.load(infile)
+journal_variations = jmap.keys()
+Required = []
+for key in jmap.keys():
+    if jmap[key] not in Required:
+        Required.append(jmap[key])
+
 data = {}
 
 journal_author_dict = {}
@@ -45,8 +53,17 @@ count = 0
 system("brew services start mongodb")
 
 print(len(article_list))
+
 for article in article_list:
+    count += 1
     data[article['index']] = dict(article)
+    try:
+        if article['publication'] in journal_variations:
+            data[article['index']]['publication'] = jmap[article['publication']]
+            article['publication'] = jmap[article['publication']]
+            #data[article['publication']] = jmap[article['publication']]
+    except KeyError:
+        pass
     try:
         if article['publication'] not in journal_list:
             journal_author_dict[article['publication']] = []
@@ -67,21 +84,21 @@ for article in article_list:
     count += 1
     print('article ' + str(count) + ' done')
 
-with open('../data/OCQ_temp_data/Journal_author.json','w') as outfile:
-    json.dump(journal_author_dict,outfile)
+# with open('../data/OCQ_temp_data/Journal_author.json','w') as outfile:
+#     json.dump(journal_author_dict,outfile)
 
-with open('../data/OCQ_temp_data/author_selfcites.json','w') as outfile:
-    json.dump(author_self_cites,outfile)
+# with open('../data/OCQ_temp_data/author_selfcites.json','w') as outfile:
+#     json.dump(author_self_cites,outfile)
 
-with open('../data/OCQ_temp_data/author_total_cites.json','w') as outfile:
-    json.dump(author_total_cites,outfile)
+# with open('../data/OCQ_temp_data/author_total_cites.json','w') as outfile:
+#     json.dump(author_total_cites,outfile)
 
-journal_dict = {'list':journal_list}
-with open('../data/OCQ_temp_data/journal_list.json','w') as outfile:
-    json.dump(journal_dict,outfile)
+# journal_dict = {'list':journal_list}
+# with open('../data/OCQ_temp_data/journal_list.json','w') as outfile:
+#     json.dump(journal_dict,outfile)
 
-with open('../data/OCQ_temp_data/data.json','w') as outfile:
-    json.dump({'data':data},outfile)
+# with open('../data/OCQ_temp_data/data.json','w') as outfile:
+#     json.dump({'data':data},outfile)
 
 print("calculating the citation counts")
 
@@ -112,7 +129,7 @@ with open('../data/OCQ_temp_data/author_total_cites.json','w') as outfile:
 journal_names = open('../output/ACM_Elsevier_journal_list_curated_v2','r').readlines()
 
 with open('../output/calc_ocq.csv','w') as outfile:
-    for journal in journal_names:
+    for journal in Required:
         total_quotient = 0.0
         normalized_quotient = 0.0
         for author in journal_author_dict[journal.strip('\n').lower()]:
@@ -121,8 +138,8 @@ with open('../output/calc_ocq.csv','w') as outfile:
                 total_quotient += quotient
         if total_quotient!=0:
             normalized_quotient = total_quotient/len(journal_author_dict[journal.strip('\n').lower()])
-        outfile.write(journal + ',' + normalized_quotient + '\n')
-        print(journal + ',' + normalized_quotient + '\n')
+        outfile.write(str(journal) + ',' + str(normalized_quotient) + '\n')
+        print(str(journal) + ',' + str(normalized_quotient) + '\n')
 # with open('../../output/calc_ocq.csv','w') as outfile:
 # 	for author in author_list:
 # 		outfile.write(text_to_id(author) + ',' + str(author_total_cites[author]) + ',' + str(author_self_cites[author]) + '\n')

@@ -1,0 +1,218 @@
+IEEE Access
+IEEE Aerospace and Electronic Systems Magazine
+IEEE Transactions on Aerospace and Electronic Systems
+IEEE Transactions on Affective Computing
+IEEE Annals of the History of Computing
+IEEE Antennas and Propagation Magazine
+IEEE Transactions on Antennas and Propagation
+IEEE Antennas and Wireless Propagation Letters
+IEEE Transactions on Applied Superconductivity
+IEEE/ACM Transactions on Audio, Speech, and Language Processing
+IEEE Transactions on Automatic Control
+IEEE/CAA Journal of Automatica Sinica
+IEEE Transactions on Automation Science and Engineering
+IEEE Transactions on Big Data
+IEEE Journal of Biomedical and Health Informatics
+IEEE Transactions on Biomedical Circuits and Systems
+IEEE Reviews in Biomedical Engineering
+IEEE Transactions on Biomedical Engineering
+IEEE Biometrics Compendium
+IET Biometrics
+IEEE Transactions on Broadcasting
+IEEE Transactions on Cable Television
+IEEE Circuits and Devices Magazine
+IEEE Transactions on Circuits and Systems for Video Technology
+IEEE Transactions on Circuits and Systems I: Regular Papers
+IEEE Transactions on Circuits and Systems II: Express Briefs
+IEEE Circuits and Systems Magazine
+IET Circuits, Devices and Systems
+IEEE Cloud Computing
+IEEE Transactions on Cloud Computing
+IEEE Transactions on Cognitive and Developmental Systems
+IEEE Transactions on Cognitive Communications and Networking
+IEEE Communications Letters
+IEEE Communications Magazine
+IEEE Communications Surveys and Tutorials
+IEEE Transactions on Communications
+IET Communications
+IEEE Transactions on Components, Packaging and Manufacturing Technology
+IEEE Transactions on Computational Imaging
+IEEE Transactions on Computational Intelligence and AI in Games
+IEEE Computational Intelligence Magazine
+IEEE Transactions on Computational Social Systems
+IEEE Computer Applications in Power
+IEEE Computer Architecture Letters
+IEEE Computer Graphics and Applications
+IET Computer Vision
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+IET Computers and Digital Techniques
+IEEE Transactions on Computers
+IEEE Concurrency
+IEEE Consumer Electronics Magazine
+IEEE Transactions on Consumer Electronics
+IEEE Transactions on Control of Network Systems
+IEEE Transactions on Control Systems Technology
+IEEE Control Systems
+IET Control Theory and Applications
+IEEE Transactions on Cybernetics
+IEEE Transactions on Dependable and Secure Computing
+IEEE Design and Test
+IEEE Transactions on Device and Materials Reliability
+IEEE Transactions on Dielectrics and Electrical Insulation
+IEEE Distributed Systems Online
+IEEE Transactions on Education
+IET Electric Power Applications
+IEEE Electrical Insulation Magazine
+IET Electrical Systems in Transportation
+IEEE Electrification Magazine
+IEEE Electromagnetic Compatibility Magazine
+IEEE Transactions on Electromagnetic Compatibility
+IEEE Electron Device Letters
+IEEE Journal of the Electron Devices Society
+IEEE Transactions on Electron Devices
+IEEE Embedded Systems Letters
+IEEE Journal on Emerging and Selected Topics in Circuits and Systems
+IEEE Journal of Emerging and Selected Topics in Power Electronics
+IEEE Transactions on Emerging Topics in Computing
+IEEE Transactions on Energy Conversion
+IEEE Engineering Management Review
+IEEE Transactions on Engineering Management
+IEEE Transactions on Evolutionary Computation
+IEEE Journal on Exploratory Solid-State Computational Devices and Circuits
+IEEE Transactions on Fuzzy Systems
+IET Generation, Transmission and Distribution
+IEEE Geoscience and Remote Sensing Letters
+IEEE Geoscience and Remote Sensing Magazine
+IEEE Transactions on Geoscience and Remote Sensing
+IEEE Transactions on Haptics
+IEEE Transactions on Human-Machine Systems
+IBM Journal of Research and Development
+IBM Systems Journal
+IEEE Transactions on Image Processing
+IET Image Processing
+IEEE Industrial Electronics Magazine
+IEEE Transactions on Industrial Electronics
+IEEE Transactions on Industrial Informatics
+IEEE Industry Applications Magazine
+IEEE Transactions on Industry Applications
+IEEE Transactions on Information Forensics and Security
+IET Information Security
+IEEE Transactions on Information Theory
+IEEE Instrumentation and Measurement Magazine
+IEEE Transactions on Instrumentation and Measurement
+IEEE Intelligent Systems
+IET Intelligent Transport Systems
+IEEE Intelligent Transportation Systems Magazine
+IEEE Transactions on Intelligent Transportation Systems
+IEEE Transactions on Intelligent Vehicles
+IEEE Internet Computing
+IEEE Internet of Things Journal
+IEEE Transactions on Knowledge and Data Engineering
+IEEE Latin America Transactions
+IEEE Transactions on Learning Technologies
+IEEE Life Sciences Letters
+IEEE LTS
+IEEE Translation Journal on Magnetics in Japan
+IEEE Magnetics Letters
+IEEE Transactions on Magnetics
+IET Manufacturing
+IEEE/ASME Transactions on Mechatronics
+IEEE Transactions on Medical Imaging
+IET Micro and Nano Letters
+IEEE Micro
+IEEE Microwave and Wireless Components Letters
+IEEE Microwave Magazine
+IEEE Transactions on Microwave Theory and Techniques
+IET Microwaves, Antennas and Propagation
+IEEE Transactions on Mobile Computing
+IEEE Transactions on Molecular, Biological and Multi-Scale Communications
+IEEE Transactions on Multi-Scale Computing Systems
+IEEE MultiMedia
+IEEE Transactions on Multimedia
+IEEE Journal on Multiscale and Multiphysics Computational Techniques
+IEEE Transactions on NanoBioscience
+IET Nanobiotechnology
+IEEE Nanotechnology Express
+IEEE Nanotechnology Magazine
+IEEE Transactions on Nanotechnology
+IEEE Transactions on Network and Service Management
+IEEE Transactions on Network Science and Engineering
+IEEE Network
+IET Networks
+IEEE Transactions on Neural Networks and Learning Systems
+IEEE Transactions on Neural Systems and Rehabilitation Engineering
+IEEE Transactions on Nuclear Science
+IEEE Journal of Oceanic Engineering
+IEEE/OSA Journal of Optical Communications and Networking
+IET Optoelectronics
+IEEE Transactions on Parallel and Distributed Systems
+IEEE Transactions on Pattern Analysis and Machine Intelligence
+IEEE Pervasive Computing
+IEEE Photonics Journal
+IEEE Photonics Technology Letters
+IEEE Journal of Photovoltaics
+IEEE Transactions on Plasma Science
+IEEE Potentials
+IEEE Power and Energy Magazine
+CSEE Journal of Power and Energy Systems
+IEEE Power and Energy Technology Systems Journal
+IEEE Transactions on Power Delivery
+IEEE Power Electronics Letters
+IEEE Power Electronics Magazine
+IEEE Transactions on Power Electronics
+IET Power Electronics
+IEEE Power Engineering Review
+IEEE Transactions on Power Systems
+IEEE Transactions on Professional Communication
+IEEE Pulse
+IEEE Journal of Quantum Electronics
+IET Radar, Sonar and Navigation
+IEEE Transactions on Reliability
+IET Renewable Power Generation
+IEEE RFIC Virtual Journal
+IEEE RFID Virtual Journal
+IEEE Robotics and Automation Magazine
+IEEE Robotics and Automation Letters
+IEEE Transactions on Robotics
+IET Science, Measurement and Technology
+IEEE Security and Privacy
+IEEE Journal on Selected Areas in Communications
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+IEEE Journal of Selected Topics in Quantum Electronics
+IEEE Journal of Selected Topics in Signal Processing
+IEEE Transactions on Semiconductor Manufacturing
+IEEE Sensors Journal
+IEEE Transactions on Services Computing
+IEEE Transactions on Signal and Information Processing over Networks
+IEEE Signal Processing Letters
+IEEE Signal Processing Magazine
+IEEE Transactions on Signal Processing
+IET Signal Processing
+IEEE Transactions on Smart Grid
+IEEE Transactions on Software Engineering
+IEEE Software
+IET Software
+IEEE Solid-State Circuits Magazine
+IEEE Journal of Solid-State Circuits
+IEEE Spectrum
+IEEE Transactions on Sustainable Energy
+IET Synthetic Biology
+IET Systems Biology
+IEEE Systems Journal
+IEEE Systems, Man, and Cybernetics Magazine
+IEEE Transactions on Systems, Man, and Cybernetics: Systems
+IEEE Technology and Society Magazine
+IEEE Revista Iberoamericana de Tecnologias del Aprendizaje
+IEEE Transactions on Terahertz Science and Technology
+IEEE Journal of Translational Engineering in Health and Medicine
+IEEE Transactions on Transportation Electrification
+IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control
+IEEE Vehicular Technology Magazine
+IEEE Transactions on Vehicular Technology
+IEEE Transactions on Very Large Scale Integration (VLSI) Systems
+IEEE Transactions on Visualization and Computer Graphics
+IEEE Wireless Communications Letters
+IEEE Wireless Communications
+IEEE Transactions on Wireless Communications
+IET Wireless Sensor Systems
+IEEE Women in Engineering Magazine
