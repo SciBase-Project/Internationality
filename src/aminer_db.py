@@ -1,4 +1,3 @@
-
 import pymongo
 
 client = pymongo.MongoClient("localhost", 27017)
@@ -62,6 +61,4 @@ while i < len(lines) :
     print "[INFO] inserted into db paper", paper['index']
 
     i += 1
-
-#file.close()
 

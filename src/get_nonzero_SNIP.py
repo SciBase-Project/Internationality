@@ -22,31 +22,26 @@ for item in lst :
 	DCP.append(float(item[2][1:len(item[2])-1]))
 
 
-'''
-median_dcp = numpy.median(numpy.array(DCP))
-print median_dcp
+DCP_nz = []
+RIP_nz = []
 
-print RIP
-print DCP
-'''
 count = 0
 J_nonzero = []
 for i in range(len(J)) :
 	if RIP[i] != 0 and DCP[i] != 0 :
-		print J[i]
+		RIP_nz.append(RIP[i])
+		DCP_nz.append(DCP[i])
 		J_nonzero.append(J[i])
 		count +=1
 
 print count
 
-with open("../output/nonzero_SNIP_journals.txt",'w') as file :
-	for item in J_nonzero :
-		file.write(item)
-		file.write("\n")
-'''
-for i in range(0, len(J)) :
-    rip = RIP[i]
-    dcp = DCP[i]
+median_dcp = numpy.median(numpy.array(DCP_nz))
+print median_dcp
+
+for i in range(0, len(J_nonzero)) :
+    rip = RIP_nz[i]
+    dcp = DCP_nz[i]
     rdcp = 1.0 * dcp / median_dcp
 
     if rdcp == 0 : snip = 0
@@ -57,4 +52,4 @@ for i in range(0, len(J)) :
     SNIP_values['RIP'].append(rip)
     SNIP_values['DCP'].append(dcp)
     SNIP_values['SNIP'].append(snip)
-'''
+
