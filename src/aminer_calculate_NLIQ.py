@@ -16,11 +16,13 @@ with open('../data/IEEE_ACM_Journal_Map.json','r') as infile:
 	jmap = json.load(infile)
 journal_variations = jmap.keys()
 Required = []
+
 for key in jmap.keys():
 	if jmap[key] not in Required:
 		Required.append(jmap[key])
-data = {}
 
+
+data = {}
 self_cites = {}
 total_cites = {}
 paper_count = {}
@@ -28,11 +30,13 @@ paper_count = {}
 #indexing based on the index of an article
 
 article_list = list(db['publications'].find())
+
 call(["brew","services","stop","mongodb"])
+
 for article in article_list:
 	data[article['index']] = dict(article)
 	try:
-		if article['publication'] in journal_variations:
+		if article['publication'] in journal_variations :
 			data[article['index']]['publication'] = jmap[article['publication']]
 			article['publication'] = jmap[article['publication']]
 			#data[article['publication']] = jmap[article['publication']]
@@ -46,8 +50,10 @@ for article in article_list:
 
 		else:
 			paper_count[article['publication']] += 1
+			
 	except KeyError:
 		pass
+
 article_list={}
 for element in data:
 	for reference in list(data[element]['references']):
@@ -62,6 +68,8 @@ for element in data:
 		if jname == data[element]['publication']:
 			self_cites[jname] += 1
 			
+
+
 with open('../output/NLIQ.txt','w') as outfile:
 	for name in Required:
 		try:
@@ -72,6 +80,8 @@ with open('../output/NLIQ.txt','w') as outfile:
 			else:
 				quotient = 0
 			print(name.strip('\n')+'\t'+str(total)+'\t'+str(selfc)+'\t'+str(quotient) +'\t'+str(paper_count[name.strip('\n').lower()]))
+			
 			outfile.write(name.strip('\n')+ ',' +str(quotient) + ',' + str(paper_count[name.strip('\n').lower()])+'\n')
+		
 		except KeyError:
 			pass
