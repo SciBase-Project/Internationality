@@ -134,7 +134,7 @@ with open('../output/calc_ocq.csv','w') as outfile:
         normalized_quotient = 0.0
         for author in journal_author_dict[journal.strip('\n').lower()]:
             if author_total_cites[author]!=0:
-                quotient = (author_total_cites[author] - author_self_cites[author])/(1.0 * author_total_cites[author])
+                quotient = (author_total_cites[author] - author_self_cites[author])/(author_total_cites[author] * 1.0)
                 total_quotient += quotient
         if total_quotient!=0:
             normalized_quotient = total_quotient/len(journal_author_dict[journal.strip('\n').lower()])
