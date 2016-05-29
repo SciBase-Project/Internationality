@@ -1,8 +1,11 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import json
+import re
 
 baseurl = 'http://www.scimagojr.com/'
+
+file = open('../../output/IC.csv','w')
 
 # various keyword journals being searched for
 url_list = ['journalsearch.php?q=IEEE&tip=jou&exact=no&page=0','journalsearch.php?q=ACM&tip=jou&exact=no&page=0']
@@ -30,14 +33,29 @@ def get_next_link(aurl):
 	page.pop()
 	for element in page[3::]:
 		if element.find('a').get_text().lower() in Required:
-			print(element.find('a').get_text() +' '+baseurl +element.find('a')['href'])
+			file.write('\n'+element.find('a').get_text())
+
+			# Finding the required tags from javascript codes using regex
+			siblings =get_soup(baseurl +element.find('a')['href']).find("div",{"id":"flashcontent7"}).next_sibling.next_sibling
+			narrowed = re.findall(r'<graphs>.*</graphs>',str(siblings),re.DOTALL)
+			final = narrowed[0].split('xid')
+			for year in final[1::]:
+				if str(year.split('"')[2].split('<')[0].split('>')[1] ) == '':
+					file.write(',0.0')
+					#print(',0.0',end='')
+				else:
+					file.write(','+str(year.split('"')[2].split('<')[0].split('>')[1] ))
+				#print(year.split('"')[1] +' '+str(year.split('"')[2].split('<')[0].split('>')[1] ))
+
 	links = page[2].findAll('a')
 	for link in links:
 		text = link.get_text()
 		if text == 'Next >' :
-			#print(baseurl + link['href'])
 			get_next_link(baseurl + link['href'])
 
+file.write('Journal Name')
+for i in range(1996,2015):
+	file.write(','+str(i))
 # Loading the first page of results for all queries as first URL
 for url in url_list:
 	get_next_link(baseurl + url)
