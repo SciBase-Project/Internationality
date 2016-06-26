@@ -24,24 +24,6 @@ def text_to_id(text):
     return text
 
 
-"""
-	Getting the required journal names with their variations
-"""
-
-# Connecting the file storing the jorunal name variations with their respective unique name
-with open('../data/IEEE_ACM_Journal_Map.json','r') as infile:
-	journal_name_map = json.load(infile)
-
-# Creating a list containing all journals name variations
-journal_variations = journal_name_map.keys()
-
-#Creating a list of all required journal names (the final ones)
-journal_name_required = []
-for journal in journal_variations:
-	if journal_name_map[journal] not in journal_name_required:
-		journal_name_required.append(journal_name_map[journal])
-
-
 
 """
 	Getting all the required records from the database
@@ -79,6 +61,26 @@ data = {}
 
 
 """
+	Getting the required journal names with their variations
+"""
+
+# Connecting the file storing the jorunal name variations with their respective unique name
+with open('../data/IEEE_ACM_Journal_Map.json','r') as infile:
+	journal_name_map = json.load(infile)
+
+# Creating a list containing all journals name variations
+journal_variations = journal_name_map.keys()
+
+#Creating a list of all required journal names (the final ones)
+journal_name_required = []
+for journal in journal_variations:
+	if journal_name_map[journal] not in journal_name_required:
+		journal_name_required.append(journal_name_map[journal])
+		journal_author_list[journal_name_map[journal]] = []
+
+
+
+"""
 	Making the records accessible by their index attribute
 	All journal varitations have same publication attribute
 """
@@ -87,31 +89,33 @@ for record in records:
 	count += 1
 	print('Initializing: Article-'+str(count))
 	try:
-		# Unifying variations in the name of a journal
+		# Unifying variations in journal's name
 		if record['publication'] in journal_variations:
 			record['publication'] = journal_name_map[record['publication']]
 	except KeyError:
 		pass
-	# Indexing based on the article index
-	data[record['index']] = record
-	# Removing default author names
-	data[record['index']]['authors'] = []
-	for author in record['authors']:
-		if author = '':
-			continue
-		author = text_to_id(author)
-		# Storing the cleaned author names
-		data[record['index']]['authors'].append(author)
 
-		if author not in author_paper_count:
-			author_total_count[author] = 0
-			author_self_count[author] = 0
-			author_paper_count[author] = 1
-		else:
-			author_paper_count[author] += 1
-		if record['publication'] in journal_name_required:
-			if author not in journal_author_list[record['publication']]:
-				journal_author_list[record['publication']].append(author)
+	data[record['index']] = record
+	temp = []
+	# Cleaning the author names, allowing index using them
+	try:
+			for author in record['authors']:
+				if author == '':
+					continue
+				author = text_to_id(author)
+				temp.append(author)
+				if author not in author_paper_count:
+					author_total_count[author] = 0
+					author_self_count[author] = 0
+					author_paper_count[author] = 1
+				else:
+					author_paper_count[author] += 1
+				if record['publication'] in journal_name_required:
+					if author not in journal_author_list[record['publication']]:
+						journal_author_list[record['publication']].append(author)
+	except KeyError:
+		pass
+	data[record['index']]['authors'] = temp
 records = []
 
 
@@ -122,18 +126,23 @@ records = []
 """
 count = 0
 for index in data:
+	count += 1
 	print('Scanning: Article-'+str(count))
+	# Visiting all citations by a paper
 	for reference in data[index]['references']:
 		if reference == '':
 			continue
-		# Increasing stats for each author in citing article
+		# Increasing stats for all the authors in the paper
 		for author in data[index]['authors']:
-			if author = '':
+			if author == '':
 				continue
 			author_total_count[author] += 1
-
-			if author in data[reference]['authors']:
-				author_self_count[author] += 1
+			try:
+				# If author exists in the cited paper also
+				if author in data[reference]['authors']:
+					author_self_count[author] += 1
+			except KeyError:
+				pass
 
 
 
@@ -142,16 +151,13 @@ for index in data:
 	Printing the result and storing it in a file
 """
 print('\n\nOCQ values :\n\n')
-with open('','w') as outfile:
+with open('../output/OCQ.csv','w') as outfile:
 	for journal in journal_name_required:
 		Journal_quotient = 0.0
-		# Calculatin the cumulative citation quotient of a journal from all its authors
 		for author in journal_author_list[journal]:
-			# Ensuring no divide error occurs
 			if author_total_count[author]!= 0:
 				Journal_quotient += author_self_count[author]/(1.0*author_total_count[author])
-		# Averaging the cumulative Quotient value
 		Normalized_value = Journal_quotient/(len(journal_author_list[journal]))
 		OCQ = 1 - Normalized_value
 		print(str(journal) + '\t' + str(OCQ))
-		outfile.write(str(journal) + '\t' + str(OCQ) + '\n')
+		outfile.write(str(journal) + ',' + str(OCQ) + '\n')
