@@ -49,30 +49,34 @@ records = list( collection.find() )
 call(["brew","services","stop","mongodb"])
 
 
+
 """
-	Getting the list of required journals
+	Initializing the required data structures
 """
-global_count = 0
-categories = glob.glob("../../data/Categories/JournalLists/*.txt")
-for category in categories[2:3:]:
-	global_count += 1
+author_self_count = {}
+author_total_count = {}
+author_paper_count = {}
+journal_author_list = {}
+data = {}
 
-	Name = category.split("/").pop()
 
 
-	"""
-		Initializing the required data structures
-	"""
-	author_self_count = {}
-	author_total_count = {}
-	author_paper_count = {}
-	journal_author_list = {}
-	data = {}
+"""
+	Getting the required journal names with their variations
+"""
+
+categories = glob.glob('../../data/Categories/JournalLists/*txt')
+
+for category in categories:
+	journals = open(category,'r')
+	Name = category.split('/').pop()
+
+
 	journal_name_required = []
-	journals = open(category,'r').readlines()
+
 	for journal in journals:
-		journal_name_required.append(text_to_id(journal.strip('\n')))
-		journal_author_list[journal] = []
+		journal_name_required.append(text_to_id( journal.strip('\n') ) )
+		journal_author_list[text_to_id( journal.strip('\n') ) ] = []
 
 	"""
 		Making the records accessible by their index attribute
@@ -81,11 +85,13 @@ for category in categories[2:3:]:
 	count = 0
 	for record in records:
 		count += 1
-		print('Category :' + str(global_count) + ' Initializing: Article-'+str(count))
+		print('Initializing: Article-'+str(count))
+
 		try:
 			record['publication'] = text_to_id(record['publication'])
 		except KeyError:
 			pass
+
 		data[record['index']] = record
 		temp = []
 		# Cleaning the author names, allowing index using them
@@ -116,7 +122,7 @@ for category in categories[2:3:]:
 	count = 0
 	for index in data:
 		count += 1
-		print('Category : ' + str(global_count) +' Scanning: Article-'+str(count))
+		print('Scanning: Article-'+str(count))
 		# Visiting all citations by a paper
 		for reference in data[index]['references']:
 			if reference == '':
@@ -139,17 +145,26 @@ for category in categories[2:3:]:
 		Calculating OCQ for all interested journals
 		Printing the result and storing it in a file
 	"""
-	print('\n\nCategory : ' + str(global_count) +' OCQ values :\n\n')
+
+	print('\n\nOCQ values :\n\n')
 	with open('../../output/More Journals/OCQ/'+Name,'w') as outfile:
 		for journal in journal_name_required:
 			Journal_quotient = 0.0
 			try:
-				for author in journal_author_list[journal]:
-					if author_total_count[author]!= 0:
-						Journal_quotient += author_self_count[author]/(1.0*author_total_count[author])
-				Normalized_value = Journal_quotient/(len(journal_author_list[journal]))
+				if len(journal_author_list[journal]) != 0:
+					for author in journal_author_list[journal]:
+						if author_total_count[author]!= 0:
+							Journal_quotient += author_self_count[author]/(1.0*author_total_count[author])
+					Normalized_value = Journal_quotient/(len(journal_author_list[journal]))
+				else:
+					Normalized_value = 0
+
 				OCQ = 1 - Normalized_value
 				print(str(journal) + '\t' + str(OCQ))
 				outfile.write(str(journal) + ',' + str(OCQ) + '\n')
+
 			except KeyError:
-				outfile.write(str(journal) + ',1\n')
+				outfile.write(str(journal) + ',-\n')
+
+
+

@@ -1,0 +1,201 @@
+Web Semantics
+IEEE Journal on Selected Areas in Communications
+Foundations and Trends in Networking
+IEEE Communications Magazine
+IEEE/ACM Transactions on Networking
+Foundations and Trends in Communications and Information Theory
+IEEE Transactions on Mobile Computing
+Information Systems Research
+ACM Transactions on the Web
+Journal of Computer-Mediated Communication
+ACM Transactions on Sensor Networks
+Journal of Computer and System Sciences
+IEEE Network
+Proceedings of the ACM Conference on Electronic Commerce
+"Proceedings of the ACM Conference on Computer Supported Cooperative Work, CSCW"
+IEEE Transactions on Information Forensics and Security
+IEEE Internet Computing
+IEEE Intelligent Systems
+Computer Graphics Forum
+Data Mining and Knowledge Discovery
+"Proceedings of the Annual International Conference on Mobile Computing and Networking, MOBICOM"
+Ad Hoc Networks
+Computer Communication Review
+Journal of Heuristics
+ACM Transactions on Internet Technology
+Journal of the American Society for Information Science and Technology
+World Wide Web
+Proceedings - Real-Time Systems Symposium
+Proceedings of the ACM Conference on Computer and Communications Security
+IEEE Transactions on Neural Networks and Learning Systems
+Distributed Computing
+Networks
+Information Systems Journal
+IEEE Transactions on Services Computing
+IEEE Transactions on Human-Machine Systems
+Internet and Higher Education
+IEEE Transactions on Vehicular Technology
+Future Generation Computer Systems
+Real-Time Systems
+Semantic Web and Information Systems
+Proceedings of the Annual ACM Symposium on Principles of Distributed Computing
+Wireless Networks
+Proceedings of the International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc)
+Computer Networks
+Performance Evaluation
+Journal of Grid Computing
+BIT Numerical Mathematics
+International Journal of Information Security
+Information Systems Frontiers
+Journal of Computer Security
+"ACM Transactions on Multimedia Computing, Communications and Applications"
+Acta Informatica
+Operating Systems Review (ACM)
+Journal of Parallel and Distributed Computing
+New Review of Information Networking
+Problems of Information Transmission
+Electronic Commerce Research and Applications
+Proceedings of the International Conference on Dependable Systems and Networks
+Parallel Computing
+Journal of Optical Networking
+Web Intelligence and Agent Systems
+International Journal for Multiscale Computational Engineering
+Cluster Computing
+IEEE Security and Privacy
+Proceedings of the International Workshop on Network and Operating System Support for Digital Audio and Video
+Concurrency Computation Practice and Experience
+Computer Communications
+Mobile Networks and Applications
+Eurasip Journal on Wireless Communications and Networking
+IET Information Security
+Universal Access in the Information Society
+Multimedia Tools and Applications
+International Journal of Ad Hoc and Ubiquitous Computing
+Networks and Spatial Economics
+Journal of Optical Communications and Networking
+Journal of Computer Information Systems
+Wireless Communications and Mobile Computing
+IEEE Transactions on Network and Service Management
+International Journal of Sensor Networks
+Multimedia Systems
+Journal of Intelligent Information Systems
+International Journal of Information Management
+Journal of the Franklin Institute
+International Journal of Web Services Research
+"Computer Languages, Systems and Structures"
+Journal of Network and Computer Applications
+Neural Processing Letters
+Telematics and Informatics
+Advances in Mathematics of Communications
+International Journal of Wireless Information Networks
+International Journal of Telemedicine and Applications
+International Journal of Neural Systems
+International Journal of Network Security
+First Monday
+International Journal of Mobile Communications
+Conference Record - International Conference on Communications
+Cryptography and Communications
+"Proceedings of the IEEE International Conference on Engineering of Complex Computer Systems, ICECCS"
+International Journal of Applied Cryptography
+Proceedings of the IEEE Symposium on Reliable Distributed Systems
+Microprocessors and Microsystems
+International Journal of Distance Education Technologies
+Journal of Location Based Services
+International Journal of Web Engineering and Technology
+WSEAS Transactions on Signal Processing
+Bulletin of the Polish Academy of Sciences. Technical Sciences
+Jisuanji Xuebao/Chinese Journal of Computers
+Optical Switching and Networking
+Systems Engineering
+Performance Evaluation Review
+Photonic Network Communications
+Mobile Information Systems
+NETNOMICS: Economic Research and Electronic Networking
+Journal of Technology in Human Services
+"International Journal of Computers, Communications and Control"
+"Conference Record of the Asilomar Conference on Signals, Systems and Computers"
+"International Journal of Parallel, Emergent and Distributed Systems"
+International Journal of Web and Grid Services
+"Groups, Complexity, Cryptology"
+Proceedings - International Conference on Distributed Computing Systems
+Jisuanji Yanjiu yu Fazhan/Computer Research and Development
+Journal of Network and Systems Management
+KSII Transactions on Internet and Information Systems
+International Journal of Communication Systems
+International Journal of Software Engineering and Knowledge Engineering
+International Journal of Communication Networks and Distributed Systems
+New Generation Computing
+IEICE Transactions on Communications
+NTT Technical Review
+"International Conference on Application-Specific Systems, Architectures and Processors, Proceedings"
+Journal of Networks
+WSEAS Transactions on Communications
+Proceedings of the Data Compression Conference
+International Journal of Web Information Systems
+Information Security Technical Report
+International Journal of Internet Manufacturing and Services
+Journal of Asynchronous Learning Network
+International Journal of Networking and Virtual Organisations
+Journal on Chain and Network Science
+Computer Law and Security Report
+International Journal of Network Management
+Journal of Website Promotion
+Peer-to-Peer Networking and Applications
+International Journal of Security and Networks
+International Journal of Mobile Network Design and Innovation
+Computing and Informatics
+Journal of Internet Banking and Commerce
+Journal of Electronic Commerce in Organizations
+Journal of the Institute of Telecommunications Professionals
+Journal of Internet Technology
+Campus-Wide Information Systems
+Tongxin Xuebao/Journal on Communication
+International Journal of Grid and High Performance Computing
+International Journal of Distributed Sensor Networks
+Proceedings of the IASTED International Conference on Parallel and Distributed Computing and Systems
+Biomedical Instrumentation and Technology
+Journal of Computer and Systems Sciences International
+Beijing Youdian Xueyuan Xuebao/Journal of Beijing University of Posts And Telecommunications
+Journal of Emerging Technologies in Web Intelligence
+Journal of Computer Science
+International Journal of Computer Applications in Technology
+Security and Communication Networks
+"Journal of Computer Systems, Networks, and Communications"
+Proceedings - International Symposium on Computers and Communications
+Advances in Information Security
+"Proceedings - International Symposium on Discharges and Electrical Insulation in Vacuum, ISDEIV"
+International Journal of Electronic Government Research
+Journal of Communications and Networks
+Journal of Web Engineering
+BT Technology Journal
+International Journal of Web Based Communities
+Journal of Interconnection Networks
+International Journal of Information and Communication Technology
+International Journal of Information Technology and Management
+Journal of High Speed Networks
+Journal of Microelectronics and Electronic Packaging
+IEEE Distributed Systems Online
+International Journal of Electronic Security and Digital Forensics
+International Journal of Internet Protocol Technology
+International Journal of e-Collaboration
+Journal of Research and Practice in Information Technology
+IEE Communications Engineer
+International Journal of Communication Networks and Information Security
+"IEEE Pacific Rim Conference on Communications, Computers and Signal Processing Conference Proceedings"
+Journal of China Universities of Posts and Telecommunications
+International Journal of Mobile Computing and Multimedia Communications
+"Electronics and Communications in Japan, Part II: Electronics (English translation of Denshi Tsushin Gakkai Ronbunshi)"
+"Neural, Parallel and Scientific Computations"
+Journal of Information and Knowledge Management
+International Journal of High Performance Computing and Networking
+Complexity International
+Synthesis Lectures on Network Simulation
+"Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering"
+"International Conference on Communication Technology Proceedings, ICCT"
+"Electronics and Communications in Japan, Part I: Communications (English translation of Denshi Tsushin Gakkai Ronbunshi)"
+Electronics and Communications in Japan
+International Journal of Business Data Communications and Networking
+China Communications
+International Journal of Information and Computer Security
+International Journal of Internet Technology and Secured Transactions
+Journal of Technology in Counseling

@@ -1,0 +1,58 @@
+geometric and functional analysis,2.398
+journal of algebraic geometry,1.497
+geometry and topology,1.706
+journal of differential geometry,2.061
+journal of mathematical imaging and vision,2.266
+annales de linstitut fourier,1.012
+computational geometry theory and applications,1.396
+journal of graph theory,1.179
+discrete and computational geometry,1.658
+journal of noncommutative geometry,1.35
+european journal of combinatorics,1.18
+journal of geometric analysis,1.015
+transformation groups,1.344
+journal of fixed point theory and applications,0.547
+set-valued and variational analysis,1.338
+proceedings of the annual symposium on computational geometry,-
+electronic journal of combinatorics,0.832
+soft computing,1.429
+communications in analysis and geometry,0.984
+graphical models,1.587
+algebraic and geometric topology,0.936
+topology and its applications,0.991
+linear algebra and its applications,1.244
+topology,-
+fixed point theory and applications,1.046
+hiroshima mathematical journal,0.43
+annals of global analysis and geometry,1.004
+journal of graph algorithms and applications,1.498
+geometriae dedicata,0.918
+mathematical physics analysis and geometry,1.461
+international journal of computational geometry and applications,1.51
+differential geometry and its applications,-
+journal of geometry and physics,1.208
+groups geometry and dynamics,-
+advances in geometry,0.716
+beitrage zur algebra und geometrie,0.678
+journal of topology and analysis,0.671
+journal of k-theory,0.699
+symmetry integrability and geometry methods and applications sigma,-
+journal of symplectic geometry,1.27
+eurographics symposium on geometry processing,-
+international journal of shape modeling,-
+balkan journal of geometry and its applications,0.988
+conformal geometry and dynamics,0.246
+order,0.983
+fractals,0.695
+journal of geometry and symmetry in physics,0.997
+rendiconti del seminario matematico dell universita di padovo,0.599
+journal of geometry,0.472
+applied general topology, Servicio de Publicaciones"
+funkcialaj ekvacioj,0.612
+journal of mathematical physics analysis geometry,-
+revista de la real academia de ciencias exactas fisicas y naturales - serie a matematicas,-
+fundamental and applied mathematics,-
+mathematical communications,0.499
+journal for geometry and graphics,0.754
+hacettepe journal of mathematics and statistics,1.255
+mathematics and visualization,-

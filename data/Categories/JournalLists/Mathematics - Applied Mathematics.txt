@@ -1,0 +1,371 @@
+IEEE Transactions on Pattern Analysis and Machine Intelligence
+Journal of the American Mathematical Society
+IEEE Signal Processing Magazine
+Molecular Systems Biology
+Applied and Computational Harmonic Analysis
+Journal of Econometrics
+Biometrika
+Communications on Pure and Applied Mathematics
+Foundations and Trends in Communications and Information Theory
+SIAM Review
+IEEE Transactions on Wireless Communications
+Journal of the European Mathematical Society
+International Journal of Robotics Research
+Mathematical Finance
+"Journal of Numerical Analysis, Industrial and Applied Mathematics"
+Journal of Computer and System Sciences
+Journal of Informetrics
+Bulletin of the American Mathematical Society
+Journal des Mathematiques Pures et Appliquees
+Handbook of Differential Equations: Evolutionary Equations
+Foundations of Computational Mathematics
+Journal of Cryptology
+Communications in Partial Differential Equations
+Journal fur die Reine und Angewandte Mathematik
+IEEE Transactions on Fuzzy Systems
+Dynamics of Partial Differential Equations
+SIAM Journal on Mathematical Analysis
+Combinatorics Probability and Computing
+International Journal for Numerical Methods in Engineering
+Computational Mechanics
+Transactions of the American Mathematical Society
+Calculus of Variations and Partial Differential Equations
+International Journal of Approximate Reasoning
+Numerische Mathematik
+Journal of Fourier Analysis and Applications
+Biology Direct
+SIAM Journal on Control and Optimization
+Biometrics
+Mathematics of Computation
+Archives of Computational Methods in Engineering
+Random Structures and Algorithms
+Journal of Mathematical Imaging and Vision
+IMA Journal of Numerical Analysis
+SIAM Journal of Scientific Computing
+Journal of Nonlinear Science
+IEEE Signal Processing Letters
+ACM Transactions on Mathematical Software
+"Mathematics of Control, Signals, and Systems"
+Algorithmica
+BMC Systems Biology
+Annali di Matematica Pura ed Applicata
+Ergodic Theory and Dynamical Systems
+Mathematical Models and Methods in Applied Sciences
+IEEE Transactions on Vehicular Technology
+International Journal of Solids and Structures
+BMC Bioinformatics
+Stochastic Processes and their Applications
+Mathematical Modelling and Numerical Analysis
+Technometrics
+Immunome Research
+Inverse Problems
+Nonlinear Differential Equations and Applications
+Chaos
+Nonlinearity
+Communications in Contemporary Mathematics
+Advances in Differential Equations
+Control Engineering Practice
+Journal of Mathematical Analysis and Applications
+Journal of Applied Logic
+Computational Statistics and Data Analysis
+Psychometrika
+Advances in Computational Mathematics
+Journal of Economic Dynamics and Control
+Discrete and Continuous Dynamical Systems
+Operations Research Letters
+Journal of Approximation Theory
+Forum Mathematicum
+Algorithms for Molecular Biology
+BIT Numerical Mathematics
+Discrete Optimization
+Reliability Engineering and System Safety
+Pervasive and Mobile Computing
+"Nonlinear Analysis, Theory, Methods and Applications"
+Journal of Complexity
+Advances in Calculus of Variations
+Journal of Fixed Point Theory and Applications
+Match
+Chemical Engineering Science
+Journal of Mathematical Biology
+International Journal for Numerical Methods in Fluids
+Journal of Global Optimization
+Finite Fields and Their Applications
+Journal of Non-Newtonian Fluid Mechanics
+Set-Valued and Variational Analysis
+Communications on Pure and Applied Analysis
+Numerical Linear Algebra with Applications
+Proceedings of the American Mathematical Society
+Communications in Nonlinear Science and Numerical Simulation
+Nonlinear Analysis: Real World Applications
+Journal of Optimization Theory and Applications
+Computational Optimization and Applications
+Theoretical and Applied Fracture Mechanics
+"Designs, Codes, and Cryptography"
+Networks and Heterogeneous Media
+International Journal of Nonlinear Sciences and Numerical Simulation
+Journal of Combinatorial Optimization
+IEEE International Symposium on Information Theory - Proceedings
+Journal of Statistical Planning and Inference
+"Journal of Guidance, Control, and Dynamics"
+IEEE/ACM Transactions on Computational Biology and Bioinformatics
+Handbook of Differential Equations: Stationary Partial Differential Equations
+Numerical Methods for Partial Differential Equations
+Journal of Theoretical Biology
+Engineering Analysis with Boundary Elements
+Finite Elements in Analysis and Design
+International Journal of Non-Linear Mechanics
+Discrete Applied Mathematics
+Advances in Applied Mathematics
+Applied Numerical Mathematics
+Bayesian Analysis
+Journal of Mathematical Fluid Mechanics
+Journal of Computational and Applied Mathematics
+Multidimensional Systems and Signal Processing
+Communications in Mathematical Sciences
+International Journal of Automation and Computing
+Nonlinear Dynamics
+IMA Journal Management Mathematics
+Advances in Applied Probability
+Applied Mathematics and Computation
+Optimization Methods and Software
+Journal of Intelligent Transportation Systems
+Journal of Mathematical Cryptology
+Applied Mathematics Letters
+European Journal of Applied Mathematics
+Journal of Industrial and Management Optimization
+International Journal for Numerical Methods in Biomedical Engineering
+Integral Transforms and Special Functions
+Journal of Mathematical Economics
+SIAM Journal on Applied Mathematics
+Studies in Applied Mathematics
+Discrete and Continuous Dynamical Systems - Series S
+International Journal of Structural Stability and Dynamics
+Journal of Time Series Analysis
+Fixed Point Theory and Applications
+"Infinite Dimensional Analysis, Quantum Probability and Related Topics"
+Applied Mathematical Modelling
+Optimization
+Mathematics and Computers in Simulation
+Journal of Difference Equations and Applications
+Differential and Integral Equations
+Mathematical Biosciences
+Numerical Algorithms
+Journal of Mathematical Psychology
+Applied Mathematics and Optimization
+Aequationes Mathematicae
+Zeitschrift fur Angewandte Mathematik und Physik
+Lifetime Data Analysis
+"Acta Mathematica Sinica, English Series"
+International Journal of Bifurcation and Chaos in Applied Sciences and Engineering
+Measurement Science and Technology
+Journal of Algebra and Its Applications
+International Journal of Biomathematics
+Fixed Point Theory
+Discrete and Continuous Dynamical Systems - Series B
+Journal of Statistical Computation and Simulation
+International Journal of Computational Geometry and Applications
+"Journal of Agricultural, Biological, and Environmental Statistics"
+Abstract and Applied Analysis
+Journal of Mathematical Chemistry
+Stochastic Analysis and Applications
+Journal of the Franklin Institute
+"International Journal of Wavelets, Multiresolution and Information Processing"
+Collectanea Mathematica
+Annals of Mathematics and Artificial Intelligence
+Complex Analysis and Operator Theory
+Stochastic Models
+Journal of Mechanics of Materials and Structures
+International Journal of Circuit Theory and Applications
+Mathematical Inequalities and Applications
+Zeitschrift fur Analysis und ihre Anwendung
+Journal of Computational Acoustics
+Applications of Mathematics
+AStA Advances in Statistical Analysis
+Quarterly of Applied Mathematics
+Journal of Inverse and Ill-Posed Problems
+Advances in Mathematics of Communications
+Mathematical Biosciences and Engineering
+Journal of Chemometrics
+Topological Methods in Nonlinear Analysis
+Ecological Informatics
+Journal of Mathematical Modelling and Algorithms
+Engineering Optimization
+IMA Journal of Applied Mathematics
+"Applicable Algebra in Engineering, Communications and Computing"
+Informatica
+Applied Mathematical Finance
+Journal of Strain Analysis for Engineering Design
+International Journal of Applied Mathematics and Computer Science
+Theory in Biosciences
+Journal of Ship Research
+Optimal Control Applications and Methods
+Utilitas Mathematica
+"Circuits, Systems, and Signal Processing"
+Handbook of Differential Equations: Ordinary Differential Equations
+Quarterly Journal of Mechanics and Applied Mathematics
+Inverse Problems in Science and Engineering
+Pacific Journal of Optimization
+Mathematical Medicine and Biology
+Discussiones Mathematicae - Graph Theory
+ISA Transactions
+Journal of Inequalities and Applications
+Results in Mathematics
+Bio Systems
+Algebra Colloquium
+Cryptography and Communications
+Journal of Mathematical Behavior
+International Journal of Applied Cryptography
+Measurement: Journal of the International Measurement Confederation
+Nonlinear Dynamics and Systems Theory
+Chinese Annals of Mathematics. Series B
+International Journal of Numerical Methods for Heat and Fluid Flow
+"Eurasia Journal of Mathematics, Science and Technology Education"
+Microgravity Science and Technology
+Mathematics in Computer Science
+Scientific Annals of Computer Science
+Journal of Computational and Nonlinear Dynamics
+Journal of Integral Equations and Applications
+Applicable Analysis and Discrete Mathematics
+Advances in Difference Equations
+ZAMM Zeitschrift fur Angewandte Mathematik und Mechanik
+Shuidonglixue Yanjiu yu Jinzhan / Journal of Hydrodynamics Ser. A
+Electronic Journal of Qualitative Theory of Differential Equations
+Functional Analysis and its Applications
+Computational and Mathematical Methods in Medicine
+Communications on Applied Nonlinear Analysis
+Computational and Applied Mathematics
+Advances in Applied Clifford Algebras
+Electronic Notes in Discrete Mathematics
+Complex Variables and Elliptic Equations
+Journal of Applied Mathematics and Mechanics
+Applied and Computational Mathematics
+Bla_tter der DGFVM
+IMA Journal of Mathematical Control and Information
+Control and Cybernetics
+Communications in Applied Analysis
+Applied Mathematics E - Notes
+Hangkong Xuebao/Acta Aeronautica et Astronautica Sinica
+Jixie Gongcheng Xuebao/Chinese Journal of Mechanical Engineering
+Acta Applicandae Mathematicae
+"Groups, Complexity, Cryptology"
+Acta Biotheoretica
+Advances in Data Analysis and Classification
+International Journal of Shape Modeling
+Journal of Mechanics
+"International Journal of Modelling, Identification and Control"
+Ricerche di Matematica
+"Dynamics of Continuous, Discrete and Impulsive Systems Series A: Mathematical Analysis"
+Acta Scientiarum Mathematicarum
+Applied Mathematics and Mechanics
+Lixue Xuebao/Chinese Journal of Theoretical and Applied Mechanics
+Journal of Applied Measurement
+Applied Sciences
+Indian Journal of Pure and Applied Mathematics
+International Journal of Computer Mathematics
+Reliable Computing
+Electrical Engineering
+Japan Journal of Industrial and Applied Mathematics
+Jisuan Lixue Xuebao/Chinese Journal of Computational Mechanics
+Advances in Applied Mathematics and Mechanics
+"IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences"
+Fractals
+"Nonlinear Dynamics, Psychology, and Life Sciences"
+IEEE Vehicular Technology Conference
+Journal of Applied Mathematics and Stochastic Analysis
+COMPEL - The International Journal for Computation and Mathematics in Electrical and Electronic Engineering
+Logica Universalis
+Computational and Mathematical Organization Theory
+Jixie Qiandu/Journal of Mechanical Strength
+Applicable Analysis
+Australian Journal of Mathematical Analysis and Applications
+International Journal of Biometrics
+Hangkong Dongli Xuebao/Journal of Aerospace Power
+Journal of Applied Mathematics and Computing
+Mathematical and Computer Modelling of Dynamical Systems
+Kyungpook Mathematical Journal
+Monte Carlo Methods and Applications
+Jisuan Wuli/Chinese Journal of Computational Physics
+Proceedings of SPIE - The International Society for Optical Engineering
+Qinghua Daxue Xuebao/Journal of Tsinghua University
+Journal of Inequalities in Pure and Applied Mathematics
+"Dynamics of Continuous, Discrete and Impulsive Systems Series B: Applications and Algorithms"
+"Revista de la Real Academia de Ciencias Exactas, Fisicas y Naturales - Serie A: Matematicas"
+Journal of Optical Technology (A Translation of Opticheskii Zhurnal)
+Journal of Mathematical Sciences
+Transport Theory and Statistical Physics
+Analysis in Theory and Applications
+Journal of Grey System
+Dalian Ligong Daxue Xuebao/Journal of Dalian University of Technology
+Journal of Interdisciplinary Mathematics
+International Journal of Mathematical Education in Science and Technology
+Jiqiren/Robot
+Acta Mathematicae Applicatae Sinica
+Journal of Analysis and Applications
+Journal of Applied Mathematics and Decision Sciences
+Journal of Modern Dynamics
+Dongbei Daxue Xuebao/Journal of Northeastern University
+Chinese Journal of Electronics
+Economic Computation and Economic Cybernetics Studies and Research
+Advances in Mathematical Physics
+Journal of Computer and Systems Sciences International
+Asian Journal of Mathematics
+Journal of Applied Analysis
+Journal of Biological Systems
+"UPB Scientific Bulletin, Series A: Applied Mathematics and Physics"
+Journal of Japan Industrial Management Association
+Model Assisted Statistics and Applications
+IEEE International Test Conference (TC)
+Measurement Techniques
+International Journal of Mathematics and Computers in Simulation
+Differential Equations and Dynamical Systems
+Nonlinear Analysis: Modelling and Control
+IEEE International Conference on Fuzzy Systems
+Differential Equations and Nonlinear Mechanics
+Communications of the Korean Mathematical Society
+Fundamental and Applied Mathematics
+Mathematical Communications
+Applied Mathematics
+Bioinformatics and Biology Insights
+Handbook of Numerical Analysis
+Game Studies
+Applied Mathematics Research eXpress
+International Journal of Computing Science and Mathematics
+International Journal of Applied Mathematics and Statistics
+Discrete Mathematics and Applications
+Applied Mathematics and Information Sciences
+Journal of Applied Mathematics
+Mathematical and Computational Forestry and Natural-Resource Sciences
+International Journal of Pure and Applied Mathematics
+International Journal of Simulation and Process Modelling
+"Journal of Institute of Control, Robotics and Systems"
+Handbook of Statistics
+Mathematical and Computational Applications
+International Journal of Grid and Utility Computing
+International Journal of Advanced Intelligence Paradigms
+Measurement and Control
+Journal for Geometry and Graphics
+GAMM Mitteilungen
+"Mathematical Methods in Electromagnetic Theory, MMET, Conference Proceedings"
+Cryptologia
+Applied Mathematical Sciences
+"Neural, Parallel and Scientific Computations"
+Journal of Contemporary Mathematical Analysis
+Revista Internacional de Metodos Numericos para Calculo y Diseno en Ingenieria
+American Journal of Mathematical and Management Sciences
+International Journal of Power and Energy Systems
+"Analele Stiintifice ale Universitatii Ovidius Constanta, Seria Matematica"
+International Journal of Mathematical Models and Methods in Applied Sciences
+International Journal of Mathematical Modelling and Numerical Optimisation
+SID Structural Integrity and Durability
+International Journal of Agricultural and Statistical Sciences
+Journal of Applied and Industrial Mathematics
+IAENG International Journal of Applied Mathematics
+Electronics and Communications in Japan
+"Modeling, Simulation and Applications"
+Formalized Mathematics
+Memoirs of the American Mathematical Society
+Journal of Online Mathematics and its Applications
+Mathematics and Visualization
+Loci
+Qualitative Theory of Dynamical Systems
+DLR Deutsches Zentrum fur Luft- und Raumfahrt e.V. - Forschungsberichte

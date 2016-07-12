@@ -1,0 +1,208 @@
+foundations and trends in information retrieval,6.302
+journal of the acm, Inc."
+molecular systems biology,3.181
+ieee transactions on information theory,2.572
+mis quarterly management information systems,5.64
+acm transactions on database systems, Inc."
+vldb journal,2.599
+proceedings of the acm sigact-sigmod-sigart symposium on principles of database systems,-
+proceedings of the acm sigmod international conference on management of data,-
+proceedings of the acm sigkdd international conference on knowledge discovery and data mining,-
+information systems research,1.886
+ieee transactions on knowledge and data engineering,4.088
+briefings in bioinformatics,2.068
+acm transactions on information systems, Inc."
+ieee transactions on systems man and cybernetics part b cybernetics,-
+ieee network,3.475
+information and management,2.087
+informs journal on computing,1.598
+information fusion,4.127
+decision support systems,2.426
+data mining and knowledge discovery,3.71
+knowledge and information systems,2.515
+journal of the association of information systems,2.148
+journal of heuristics,1.947
+geoinformatica,1.972
+annual review of information science and technology, Inc."
+journal of the american society for information science and technology,1.814
+information processing and management,2.118
+information and computation,1.632
+information systems,3.463
+ieee transactions on systems man and cybernetics part asystems and humans,-
+networks,1.331
+information systems journal,1.645
+european journal of information systems,1.567
+information and software technology,2.812
+semantic web and information systems,1.812
+information retrieval,2.145
+proceedings - international conference on data engineering,-
+wireless networks,1.477
+journal of strategic information systems,2.252
+journal of documentation,1.319
+journal of grid computing,2.118
+international journal of geographical information science,1.62
+reference and user services quarterly,0.97
+sigmod record, Inc."
+library and information science research,1.913
+journal of systems and software,2.604
+international journal on software tools for technology transfer,1.925
+international journal of information security,1.667
+information systems frontiers,1.057
+information technology and libraries,1.646
+ieee international symposium on information theory - proceedings,-
+acta informatica,1.009
+journal of information science,1.331
+library hi tech,1.116
+operating systems review acm,-
+international journal of cooperative information systems,1.192
+new review of information networking,1.381
+information and organization,1.852
+problems of information transmission,0.705
+computers and geosciences,1.717
+journal of dynamic systems measurement and control transactions of the asme,-
+library collections acquisition and technical services,-
+information processing letters,0.987
+multidimensional systems and signal processing,1.308
+program,1.478
+journal of service research,1.913
+journal of database management,0.538
+advances in adaptive data analysis,2.865
+information technology and management,1.037
+neuroinformatics, Inc."
+ieee transactions on industrial informatics,3.676
+journal of intelligent transportation systems,1.227
+source code for biology and medicine,0.542
+information society,1.625
+online information review,1.03
+molecular diversity,0.86
+mobile networks and applications,1.976
+advanced engineering informatics,2.431
+ibm systems journal,-
+public transport,0.872
+service oriented computing and applications,1.194
+iet information security,2.01
+universal access in the information society,1.135
+international journal of innovative computing information and control,-
+international journal of uncertainty fuzziness and knowlege-based systems,-
+fundamenta informaticae,1.097
+telecommunications policy,1.315
+requirements engineering,3.124
+journal of computer information systems,0.931
+wireless communications and mobile computing,0.796
+aslib proceedings,-
+multimedia systems,0.808
+journal of information technology,1.333
+journal of intelligent information systems,1.341
+international journal of information management,2.111
+international journal of wavelets multiresolution and information processing,-
+international journal of web services research,0.592
+distributed and parallel databases,2.032
+journal of supply chain management,2.092
+open systems and information dynamics,0.415
+transactions on architecture and code optimization, Inc."
+information technology and people, Ltd."
+information systems management,1.126
+journal of organizational computing and electronic commerce,0.927
+library resources and technical services,1.515
+international journal of parallel programming,1.129
+informatica,0.695
+infor information systems and operational research,0.381
+molecular simulation,0.526
+journal of real-time image processing,1.523
+journal of enterprise information management,0.891
+international journal of metadata semantics and ontologies,-
+journal of supercomputing,1.079
+information systems and e-business management,0.912
+international journal of general systems,1.316
+international journal of web engineering and technology,0.781
+oclc systems and services,0.473
+journal of signal processing systems,1.053
+eurasip journal on image and video processing,0.508
+zidonghua xuebaoacta automatica sinica,1.411
+bulletin of the polish academy of sciences technical sciences,1.213
+literary and linguistics computing,1.018
+journal of medical systems,1.407
+proceedings of the acm international conference on digital libraries,-
+new review of hypermedia and multimedia,0.794
+cybernetics and systems,1.037
+technology and health care,0.392
+netnomics economic research and electronic networking,0.257
+kybernetika,0.777
+journal of digital information,0.852
+international journal of intelligent information technologies,0.893
+international journal of information systems and supply chain management,0.481
+journal of network and systems management,1.01
+journal of systems science and systems engineering,1.04
+ksii transactions on internet and information systems,0.74
+wseas transactions on information science and applications,0.375
+journal of systems science and complexity,0.789
+library hi tech news,0.605
+computational management science,1.211
+profesional de la informacion,0.869
+information services and use,0.449
+jiefangjun ligong daxue xuebaojournal of pla university of science and technology natural science edition, University of Science and Technology"
+journal of electronic resources librarianship,0.271
+international journal of web information systems,0.411
+kybernetes,0.47
+international journal of services operations and informatics,0.372
+statistical analysis and data mining,1.013
+international conference on architectural support for programming languages and operating systems - asplos,-
+communications of the association for information systems, Inc."
+resource sharing and information networks,-
+journal of data and information quality, Inc."
+information-wissenschaft und praxis,-
+business and information systems engineering,-
+journal of educational media and library science,0.158
+journal of cases on information technology,0.245
+journal of electronic publishing,0.786
+education for information,0.747
+international journal of system of systems engineering,0.661
+tongxin xuebaojournal on communication,0.656
+international journal of logistics research and applications,0.413
+canadian journal of information and library science,0.283
+journal of computer and systems sciences international,1.097
+cryptology and information security series,0.489
+international journal of data mining and bioinformatics,0.716
+journal of information systems,1.629
+international journal of computer applications in technology,0.376
+technology pedagogy and education,-
+human it,2.383
+security and communication networks,0.993
+journal of computer systems networks and communications,-
+information polity,0.673
+journal of computing and cultural heritage, Inc."
+advances in information security,2.035
+opsearch,0.399
+informatik-spektrum,0.296
+journal of instruction-level parallelism,3.366
+proceedings acm siguccs user services conference,-
+journal of communications and networks,1.031
+journal of web engineering, Inc."
+international journal of information and communication technology,0.33
+journal of high speed networks,0.511
+journal of research and practice in information technology,0.693
+journal of automation and information sciences,0.273
+international journal of value chain management,0.072
+international journal of technology and human interaction,0.222
+journal of china universities of posts and telecommunications,0.494
+international journal of intelligent information and database systems,0.515
+journal of digital information management,0.296
+international journal of information quality,0.383
+journal of information and organizational sciences,0.118
+journal of computational information systems,0.668
+mondo digitale,0.039
+international journal of healthcare information systems and informatics,0.249
+proceedings of the asist annual meeting,0.262
+australasian journal of information systems, The University of Queensland"
+high technology letters,0.216
+journal of information and computational science,0.321
+systems and computers in japan,-
+gis-zeitschrift fur geoinformatik,-
+journal of intelligent systems,0.276
+logistics research,0.897
+nec technical journal,0.153
+2007 2nd international conference on digital information management icdim,-
+capturing intelligence,-
+electronic news,-
+nii technical reports,0
+information professional,-

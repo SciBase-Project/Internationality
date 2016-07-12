@@ -1,0 +1,152 @@
+annals of mathematics,4.039
+annals of statistics,2.364
+probability surveys,2.297
+journal of the royal statistical society series b statistical methodology,4.681
+biometrika,1.669
+journal of the american statistical association,1.971
+vital and health statistics series 13 data from the national health survey,-
+journal of business and economic statistics,2.553
+bioinformatics,1.729
+journal of machine learning research,2.49
+biostatistics,1.408
+probability theory and related fields,1.624
+finance and stochastics,2.265
+annals of probability,1.716
+journal of informetrics,1.724
+statistical science,2.151
+statistics and computing,1.336
+combinatorics probability and computing,1.208
+journal of computational and graphical statistics,1.292
+biometrics,1.315
+electronic journal of probability,0.976
+statistics in medicine,1.433
+journal of statistical software,4.685
+annals of applied probability,1.953
+journal of mathematical imaging and vision,2.266
+multivariate behavioral research,2.471
+statistics surveys,2.371
+journal of the royal statistical society series a statistics in society,-
+annals of applied statistics,1.367
+vital and health statistics series 10 data from the national health survey,-
+physical review e - statistical nonlinear and soft matter physics,-
+stochastic processes and their applications,1.351
+technometrics,1.88
+bernoulli,1.465
+annales de linstitut henri poincare b probability and statistics,1.42
+statistica sinica,1.501
+journal of multivariate analysis,1.094
+scandinavian journal of statistics,0.905
+computational statistics and data analysis,1.427
+insurance mathematics and economics,1.466
+statistical methods in medical research,1.746
+international journal of game theory,1.032
+north american actuarial journal,1.04
+test,1.083
+journal of complexity,2.38
+electronic communications in probability,0.944
+set-valued and variational analysis,1.338
+annals of the institute of statistical mathematics,0.87
+networks and heterogeneous media,0.676
+pharmaceutical statistics,0.861
+journal of statistical planning and inference,1.034
+journal of applied probability,0.977
+communications in analysis and geometry,0.984
+oxford bulletin of economics and statistics,1.482
+journal of biopharmaceutical statistics,0.53
+journal of physics a mathematical and theoretical,0.767
+journal of theoretical biology,0.969
+bayesian analysis,1.515
+probability in the engineering and informational sciences,0.547
+international journal of biostatistics,1.078
+extremes,0.989
+american statistician,0.746
+australian and new zealand journal of statistics,0.856
+british journal of mathematical and statistical psychology,1.179
+advances in applied probability,0.987
+physica a statistical mechanics and its applications,1.196
+canadian journal of statistics,0.69
+statistical applications in genetics and molecular biology,0.47
+biometrical journal,0.841
+international statistical review,1.847
+metrika,0.853
+journal of theoretical probability,0.905
+journal of time series analysis, Ltd"
+infinite dimensional analysis quantum probability and related topics,-
+journal of nonparametric statistics,0.733
+esaim - probability and statistics,0.464
+stochastics,0.85
+environmental and ecological statistics,0.712
+mathematical biosciences,1.02
+methodology and computing in applied probability,1.23
+environmetrics,1.087
+scandinavian actuarial journal,1.204
+journal of statistical computation and simulation,0.983
+journal of the royal statistical society series c applied statistics,0.902
+journal of agricultural biological and environmental statistics,-
+stochastic analysis and applications,0.529
+communications in statistics - theory and methods,0.633
+statistics and probability letters,0.784
+open systems and information dynamics,0.415
+stochastic models,0.772
+statistical modelling,0.678
+transactions on data privacy,1.383
+mathematical physics electronic journal,-
+asta advances in statistical analysis,0.912
+eurasip journal on bioinformatics and systems biology,0.391
+mathematical methods of statistics,0.636
+empirical economics,0.951
+computational statistics,0.729
+sequential analysis,0.956
+quality and quantity,0.789
+communications in statistics part b simulation and computation,0.753
+theory in biosciences,1.008
+mathematics and financial economics,1.108
+utilitas mathematica,0.634
+vital and health statistics series 2 data evaluation and methods research,-
+r journal,0.929
+bio systems,-
+measurement journal of the international measurement confederation,1.664
+journal of intelligent and fuzzy systems,1.229
+statistics,1.004
+top,0.807
+statistical methods and applications,0.68
+statistical papers,1.432
+statistical inference for stochastic processes,0.583
+survey methodology,1.358
+journal of statistical mechanics theory and experiment,0.342
+journal of official statistics,0.9
+theory of probability and its applications,0.669
+metron,0.396
+psicologica,0.698
+statistical methodology,1.165
+sort,1.108
+journal of applied statistics,0.67
+journal of applied mathematics and stochastic analysis,-
+monte carlo methods and applications,0.374
+journal of the korean statistical society,0.696
+journal of mathematics and statistics,0.632
+statistica neerlandica,0.605
+journal of mathematical sciences,0.383
+journal of statistics education,0.969
+journal of applied mathematics and decision sciences,-
+model assisted statistics and applications,0.525
+pakistan journal of statistics,0.259
+economie et statistique,0.451
+significance,0.375
+vital and health statistics ser 1 programs and collection procedures,0
+sankhya the indian journal of statistics,0.474
+handbook of statistics,0.27
+random operators and stochastic equations,0.75
+journal of probability and statistics,0.286
+risk and decision analysis,0.365
+journal of modern applied statistical methods, Inc"
+zeitschrift fur evaluation,-
+hacettepe journal of mathematics and statistics,1.255
+revista colombiana de estadistica,0.374
+wiley interdisciplinary reviews computational statistics,0.454
+international journal of agricultural and statistical sciences,0.409
+statistics in biosciences,0.653
+south african statistical journal,0.126
+journal of applied statistical science, Inc."
+electronic journal of applied statistical analysis,0.309
+asta wirtschafts- und sozialstatistisches archiv,0.408

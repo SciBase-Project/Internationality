@@ -1,0 +1,343 @@
+physiological reviews,8.928
+nature reviews molecular cell biology,7.468
+annual review of plant biology, Inc."
+molecular cell,2.602
+annual review of genomics and human genetics, Inc."
+nature reviews genetics,7.766
+nature structural and molecular biology,2.26
+cell metabolism,2.8
+trends in biochemical sciences,2.595
+microbiology and molecular biology reviews,4.793
+critical reviews in biochemistry and molecular biology,1.46
+epigenetics and chromatin,0.825
+embo journal,1.73
+nature methods,4.775
+current opinion in structural biology,1.803
+plos genetics,1.606
+cell host and microbe,1.864
+molecular psychiatry,2.488
+development,0.559
+nature chemical biology,2.662
+molecular biology and evolution,6.415
+trends in molecular medicine,2.169
+molecular and cellular biology,1.094
+cell death and differentiation,1.874
+molecular biology of the cell,1.079
+human molecular genetics,1.394
+oncogene,1.57
+rna,1.047
+structure,1.219
+plos pathogens,1.784
+traffic,1.035
+cell research,1.523
+embo reports,1.13
+autophagy,1.687
+science signaling,-
+cellular and molecular life sciences,1.488
+journal of biological chemistry,1.15
+dna repair,0.75
+bioinformatics,1.729
+molecular and cellular proteomics,1.228
+molecular aspects of medicine,2.766
+molecular microbiology,1.129
+plos computational biology,1.297
+international review of cell and molecular biology,-
+briefings in bioinformatics,2.068
+cell division,1.007
+faseb journal,1.246
+developmental biology,0.974
+biochemical journal, Ltd."
+journal of molecular biology,1.034
+biochimica et biophysica acta - molecular cell research,1.221
+cell cycle,0.885
+antioxidants and redox signaling,1.662
+molecular cancer research,1.115
+molecular therapy,1.283
+molecular endocrinology,1.128
+expert reviews in molecular medicine,1.557
+cold spring harbor symposia on quantitative biology,0.915
+ageing research reviews,2.058
+chemistry and biology,1.337
+molecular and cellular neurosciences,0.92
+molecular brain,1.16
+molecular plant,1.354
+biochimica et biophysica acta - molecular basis of disease,1.217
+journal of molecular and cellular cardiology,1.277
+biochimica et biophysica acta - gene regulatory mechanisms,1.241
+journal of bacteriology,0.866
+current opinion in lipidology,1.36
+molecular neurodegeneration,1.162
+current molecular medicine,0.911
+journal of investigative dermatology,1.527
+dna research,1.587
+biochimica et biophysica acta - molecular and cell biology of lipids,1.218
+methods,0.906
+epigenetics,1
+laboratory investigation,1.147
+american journal of respiratory cell and molecular biology,1.104
+cell calcium,1.028
+molecular medicine,1.477
+cell communication and signaling,1.07
+cell structure and function,0.399
+febs letters,0.808
+eukaryotic cell,0.844
+frontiers in molecular neuroscience,0.648
+molecular phylogenetics and evolution,1.782
+mutation research - fundamental and molecular mechanisms of mutagenesis,1.311
+histochemistry and cell biology,0.843
+chembiochem  a european journal of chemical biology,-
+biochemistry and cell biology,0.698
+rna biology,0.787
+acta biomaterialia,2.186
+bmc systems biology,0.792
+physical biology,0.757
+biochimica et biophysica acta - general subjects,1.217
+proteins structure function and genetics,-
+bmc molecular biology,0.749
+molecular biosystems,0.786
+bmc bioinformatics,1.065
+insect biochemistry and molecular biology,1.109
+mitochondrion,0.999
+journal of cellular biochemistry,0.975
+immunome research,0.966
+protein science,0.786
+biological chemistry,0.845
+genome medicine,0.974
+bmc biochemistry,0.681
+progress in biophysics and molecular biology,1.199
+briefings in functional genomics and proteomics,-
+molecular carcinogenesis,1.041
+differentiation,-
+current gene therapy,0.878
+human gene therapy,0.758
+gene therapy,0.881
+molecular plant pathology,1.532
+molecular and cellular endocrinology,1.181
+febs journal,1.13
+molecular membrane biology,0.412
+iubmb life,0.853
+experimental hematology,0.684
+zoologica scripta,1.986
+protein engineering design and selection,-
+critical reviews in eukaryotic gene expression,0.642
+current protein and peptide science,0.84
+molecular and biochemical parasitology,0.611
+molecular human reproduction,1.042
+gene expression patterns,0.455
+journal of experimental biology,1.224
+proteomics,0.915
+journal of molecular endocrinology,0.997
+matrix biology,1.205
+algorithms for molecular biology,1.181
+experimental gerontology,1.069
+pharmacogenetics and genomics,1.004
+journal of nutritional biochemistry,1.159
+journal of molecular evolution,0.53
+genome dynamics,-
+molecular immunology,0.848
+international journal of biological sciences,1.313
+biomedical microdevices,1.094
+archives of biochemistry and biophysics,0.875
+molecular genetics and metabolism,0.984
+molecular genetics and genomics,0.738
+cytokine,0.924
+experimental dermatology,1.017
+biochemical and biophysical research communications,0.676
+methods in enzymology,0.592
+brain research,0.899
+infection genetics and evolution,-
+biomicrofluidics,0.757
+research in microbiology,1.057
+journal of biological engineering,0.807
+current opinion in molecular therapeutics,-
+nuclear receptor,-
+cancer gene therapy,0.627
+current issues in molecular biology,1.682
+human genomics,0.914
+purinergic signalling,0.802
+journal of cell communication and signaling,0.598
+journal of molecular signaling,0.826
+tree genetics and genomes,1.216
+nucleic acid therapeutics,0.728
+phytochemistry,1.477
+experimental and molecular medicine,0.805
+journal of heredity,0.743
+journal of dermatological science,1.204
+experimental and molecular pathology,0.711
+insect molecular biology,0.793
+mycorrhiza,1.284
+molecular breeding,0.94
+molecules and cells,0.631
+biochimica et biophysica acta - proteins and proteomics,0.823
+journal of biochemistry,0.815
+journal of computational biology,0.856
+bioorganic and medicinal chemistry,1.053
+advances in biological regulation,0.729
+journal of molecular microbiology and biotechnology,0.695
+bioorganic and medicinal chemistry letters,0.859
+progress in molecular biology and translational science,0.752
+fems microbiology letters,0.707
+microcirculation,0.846
+analytical biochemistry,0.806
+virchows archiv,1.067
+pathobiology,0.904
+journal of anatomy,1.123
+plasmid,0.531
+blood cells molecules and diseases,-
+journal of steroid biochemistry and molecular biology,1.193
+expert review of proteomics,0.712
+essays in biochemistry, Ltd."
+bioscience reports,0.654
+cytogenetic and genome research,0.626
+expert review of molecular diagnostics,0.776
+journal of gene medicine,0.682
+journal of microbiological methods,0.97
+glycoconjugate journal,0.734
+international journal of experimental pathology,0.945
+statistical applications in genetics and molecular biology,0.47
+biophysical reviews,0.573
+toxicologic pathology,0.866
+international journal for numerical methods in biomedical engineering,1.07
+dna and cell biology,0.657
+journal of zoological systematics and evolutionary research,0.91
+journal of hematology and oncology,1.32
+diagnostic molecular pathology,0.751
+archives of microbiology,0.596
+molecular and cellular biochemistry,0.81
+new biotechnology,1.187
+cardiovascular toxicology, Inc."
+international journal of biological macromolecules,1.255
+reproduction fertility and development,-
+molecular diversity,0.86
+innate immunity,-
+molecular biotechnology,-
+gene expression,0.252
+chemistry and physics of lipids,0.99
+genome,-
+systems and synthetic biology,0.409
+proteome science,0.715
+comparative biochemistry and physiology part a molecular  integrative physiology,-
+antonie van leeuwenhoek,-
+bmb reports,-
+molecular physics,0.646
+iet systems biology,0.568
+connective tissue research,0.623
+mcb molecular and cellular biomechanics,0.625
+disease markers,0.604
+methods in molecular biology,-
+journal of molecular recognition,0.833
+mycologia,1.31
+journal of biological physics,0.64
+journal of peptide science,0.563
+virus genes,0.695
+journal of biomedical science,0.929
+omics a journal of integrative biology,0.755
+steroids,1.054
+biomedical chromatography,0.849
+applied biochemistry and biotechnology - part a enzyme engineering and biotechnology, Inc."
+journal of receptor and signal transduction research,0.48
+molecular and cellular probes,0.831
+cancer genetics and cytogenetics,-
+cancer genomics and proteomics,0.645
+journal of biomolecular structure and dynamics,0.623
+comparative biochemistry and physiology - part d genomics and proteomics,0.788
+nanobiotechnology,-
+bioorganic chemistry,0.794
+genes and genetic systems,0.3
+international journal of molecular sciences,1.072
+journal of biochemical and molecular toxicology,0.662
+clinical and molecular allergy,1.402
+comparative biochemistry and physiology - b biochemistry and molecular biology,0.675
+journal of investigative dermatology symposium proceedings,6.615
+bioscience biotechnology and biochemistry,-
+journal of solution chemistry,0.852
+journal of experimental zoology part a ecological genetics and physiology,0.646
+cellular and molecular biology letters,0.62
+medical molecular morphology,0.661
+chemistry and biodiversity,0.862
+experimental lung research,0.554
+journal of biomolecular techniques,0.666
+canadian journal of microbiology,0.52
+journal of genetics and genomics,0.778
+clinical proteomics, Inc."
+journal of bioinformatics and computational biology,0.337
+canadian entomologist,0.551
+comparative and functional genomics,-
+turkish journal of biology,1.088
+biodata mining,0.799
+magnesium research,0.661
+topics in current genetics,0.144
+current topis in membranes,0.9
+genome dynamics and stability,-
+molecular cytogenetics,0.735
+molecular biology reports,0.845
+biotechnology and genetic engineering reviews,0.658
+genomics proteomics bioinformatics,0.51
+current chemical biology,0.354
+in silico biology,0.158
+current protocols in molecular biology,0.433
+advances in enzymology and related areas of molecular biology,0.523
+genetics and molecular research,0.428
+international journal of tryptophan research,0.506
+african journal of biotechnology,0.903
+gene regulation and systems biology,0.593
+annals of clinical and laboratory science,0.405
+folia biologica,0.593
+genomics insights,0.076
+current bioinformatics,0.55
+biochemistry and molecular biology education,0.757
+biochemical genetics,0.514
+plant molecular biology reporter,0.779
+current proteomics,0.163
+genetics and molecular biology,0.609
+biologia,0.578
+iet synthetic biology,-
+indian journal of experimental biology,0.758
+bmc blood disorders,0.703
+international journal of immunogenetics,0.657
+plant cell monographs,0.064
+current pharmacogenomics and personalized medicine,0.176
+recent patents on dna and gene sequences,0.295
+journal of molecular cell biology,1.329
+physiology and molecular biology of plants,0.544
+biophysical reviews and letters,0.324
+journal of proteomics and bioinformatics,0.355
+mitochondrial dna,0.882
+molecular and cellular pharmacology,0.525
+current chemical genomics,0.606
+asia-pacific journal of molecular biology and biotechnology,0.383
+bioinformatics and biology insights,0.643
+advances in plant biochemistry and molecular biology,-
+molecular medicine reports,0.523
+molekulyarnaya biologiya,-
+journal of plant physiology and molecular biology,-
+gene therapy and molecular biology,0.063
+proteomics insights,1.375
+genes and genomics,0.355
+journal of organ dysfunction,-
+open bioactive compounds journal,0.786
+enzymes,0.072
+research journal of phytochemistry,0.842
+cell journal,0.497
+current bladder dysfunction reports,0.067
+turkish journal of biochemistry,0.247
+current issues in pharmacy and medical sciences,0.107
+anales de la real academia nacional de farmacia,0.002
+annals of the romanian society for cell biology,0.051
+biologicheskie membrany,0.192
+journal of sichuan university medical science edition,0.06
+chemtracts,-
+rsc biomolecular sciences,0.013
+fisheries and aquatic science,0.587
+medecine et longevite,0.015
+molecular genetics microbiology and virology,-
+probiotics and antimicrobial proteins,"
+neurochemical journal,0.193
+journal of cell and molecular biology,0.619
+gene therapy and regulation,0.112
+clinical research in cardiology supplements,0.336
+mutation research,-
+journal of epithelial biology and pharmacology,0.913
+anales de la real academia nacional de medicina,-
+biospektrum,0.022
+current topics in peptide and protein research,0
