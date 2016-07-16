@@ -1,0 +1,37 @@
+combinatorica,1.473
+journal of combinatorial theory series b,1.945
+journal of computational and graphical statistics,1.292
+journal of combinatorial designs,1.225
+constraints,2.848
+discrete and computational geometry,1.658
+journal of algebraic combinatorics,1.099
+discrete and continuous dynamical systems, Southwest Missouri State University"
+journal of combinatorial theory - series a,1.403
+journal of combinatorial optimization,1.003
+discrete mathematics,1.148
+discrete applied mathematics,1.4
+graphs and combinatorics,1.078
+linear algebra and its applications,1.244
+journal of discrete algorithms,0.886
+discrete and continuous dynamical systems - series s,0.488
+annals of combinatorics,0.855
+aequationes mathematicae,1.128
+discrete and continuous dynamical systems - series b,0.665
+australasian journal of combinatorics,0.459
+groups geometry and dynamics,-
+advances in mathematics of communications,1.276
+discrete mathematics and theoretical computer science,0.266
+discussiones mathematicae - graph theory,0.853
+journal of inequalities and applications,0.619
+top,0.807
+applicable analysis and discrete mathematics,1.134
+inverse problems and imaging,0.991
+electronic notes in discrete mathematics,0.252
+international journal of dynamical systems and differential equations,0.362
+journal of integer sequences,0.537
+dynamics of continuous discrete and impulsive systems series a mathematical analysis,-
+journal of algebra and discrete structures,0
+lecture notes in computational science and engineering,0.332
+dynamics of continuous discrete and impulsive systems series b applications and algorithms,-
+discrete mathematics and applications,0.208
+qualitative theory of dynamical systems,1.383

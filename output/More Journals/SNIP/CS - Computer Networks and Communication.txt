@@ -1,0 +1,201 @@
+web semantics,7.486
+ieee journal on selected areas in communications,3.196
+foundations and trends in networking,0.156
+ieee communications magazine,4.98
+ieeeacm transactions on networking,2.964
+foundations and trends in communications and information theory,2.442
+ieee transactions on mobile computing,3.758
+information systems research,1.886
+acm transactions on the web, Inc."
+journal of computer-mediated communication,2.445
+acm transactions on sensor networks, Inc."
+journal of computer and system sciences,2.274
+ieee network,3.475
+proceedings of the acm conference on electronic commerce,-
+proceedings of the acm conference on computer supported cooperative work cscw,-
+ieee transactions on information forensics and security,3.677
+ieee internet computing,2.9
+ieee intelligent systems,2.362
+computer graphics forum,1.586
+data mining and knowledge discovery,3.71
+proceedings of the annual international conference on mobile computing and networking mobicom,-
+ad hoc networks,2.088
+computer communication review,-
+journal of heuristics,1.947
+acm transactions on internet technology, Inc."
+journal of the american society for information science and technology,1.814
+world wide web,1.604
+proceedings - real-time systems symposium,-
+proceedings of the acm conference on computer and communications security,-
+ieee transactions on neural networks and learning systems,3.279
+distributed computing,1.819
+networks,1.331
+information systems journal,1.645
+ieee transactions on services computing,4.121
+ieee transactions on human-machine systems, Man
+internet and higher education,3.045
+ieee transactions on vehicular technology,2.535
+future generation computer systems,3.278
+real-time systems,1.938
+semantic web and information systems,1.812
+proceedings of the annual acm symposium on principles of distributed computing,-
+wireless networks,1.477
+proceedings of the international symposium on mobile ad hoc networking and computing mobihoc,-
+computer networks,2.075
+performance evaluation,1.734
+journal of grid computing,2.118
+bit numerical mathematics,1.087
+international journal of information security,1.667
+information systems frontiers,1.057
+journal of computer security,2.195
+acm transactions on multimedia computing communications and applications,-
+acta informatica,1.009
+operating systems review acm,-
+journal of parallel and distributed computing,1.991
+new review of information networking,1.381
+problems of information transmission,0.705
+electronic commerce research and applications,2.203
+proceedings of the international conference on dependable systems and networks,-
+parallel computing,2.141
+journal of optical networking,-
+web intelligence and agent systems,0.705
+international journal for multiscale computational engineering,0.736
+cluster computing,1.832
+ieee security and privacy,1.469
+proceedings of the international workshop on network and operating system support for digital audio and video,-
+concurrency computation practice and experience,1.25
+computer communications,2.409
+mobile networks and applications,1.976
+eurasip journal on wireless communications and networking,0.529
+iet information security,2.01
+universal access in the information society,1.135
+multimedia tools and applications,1.304
+international journal of ad hoc and ubiquitous computing,0.852
+networks and spatial economics,1.48
+journal of optical communications and networking,1.922
+journal of computer information systems,0.931
+wireless communications and mobile computing,0.796
+ieee transactions on network and service management,2.025
+international journal of sensor networks,1.098
+multimedia systems,0.808
+journal of intelligent information systems,1.341
+international journal of information management,2.111
+journal of the franklin institute,1.583
+international journal of web services research,0.592
+computer languages systems and structures,-
+journal of network and computer applications,3.029
+neural processing letters,0.995
+telematics and informatics,1.535
+advances in mathematics of communications,1.276
+international journal of wireless information networks,2.191
+international journal of telemedicine and applications,0.704
+international journal of neural systems,1.95
+international journal of network security,1.4
+first monday,1.076
+international journal of mobile communications,1.084
+conference record - international conference on communications,-
+cryptography and communications,"
+proceedings of the ieee international conference on engineering of complex computer systems iceccs,-
+international journal of applied cryptography,3.397
+proceedings of the ieee symposium on reliable distributed systems,-
+microprocessors and microsystems,1.094
+international journal of distance education technologies,0.262
+journal of location based services,1.445
+international journal of web engineering and technology,0.781
+wseas transactions on signal processing,0.747
+bulletin of the polish academy of sciences technical sciences,1.213
+jisuanji xuebaochinese journal of computers,1.323
+optical switching and networking,0.835
+systems engineering,1.768
+performance evaluation review,-
+photonic network communications,0.707
+mobile information systems,1.448
+netnomics economic research and electronic networking,0.257
+journal of technology in human services,0.66
+international journal of computers communications and control,-
+conference record of the asilomar conference on signals systems and computers,-
+international journal of parallel emergent and distributed systems,-
+international journal of web and grid services,1.485
+groups complexity cryptology,-
+proceedings - international conference on distributed computing systems,-
+jisuanji yanjiu yu fazhancomputer research and development,0.788
+journal of network and systems management,1.01
+ksii transactions on internet and information systems,0.74
+international journal of communication systems,2.749
+international journal of software engineering and knowledge engineering,1.013
+international journal of communication networks and distributed systems,0.513
+new generation computing,1.266
+ieice transactions on communications,0.37
+ntt technical review,0.264
+international conference on application-specific systems architectures and processors proceedings,-
+journal of networks,0.71
+wseas transactions on communications,0.496
+proceedings of the data compression conference,-
+international journal of web information systems,0.411
+information security technical report,0.858
+international journal of internet manufacturing and services,0.192
+journal of asynchronous learning network,0.997
+international journal of networking and virtual organisations,0.4
+journal on chain and network science,0.368
+computer law and security report,-
+international journal of network management,1.003
+journal of website promotion,-
+peer-to-peer networking and applications,"
+international journal of security and networks,1.586
+international journal of mobile network design and innovation,0.553
+computing and informatics,0.673
+journal of internet banking and commerce,0.309
+journal of electronic commerce in organizations,0.24
+journal of the institute of telecommunications professionals,0.023
+journal of internet technology,0.481
+campus-wide information systems,1.019
+tongxin xuebaojournal on communication,0.656
+international journal of grid and high performance computing,0.496
+international journal of distributed sensor networks,0.623
+proceedings of the iasted international conference on parallel and distributed computing and systems,-
+biomedical instrumentation and technology,0.648
+journal of computer and systems sciences international,1.097
+beijing youdian xueyuan xuebaojournal of beijing university of posts and telecommunications,0.41
+journal of emerging technologies in web intelligence,0.253
+journal of computer science,0.921
+international journal of computer applications in technology,0.376
+security and communication networks,0.993
+journal of computer systems networks and communications,-
+proceedings - international symposium on computers and communications,-
+advances in information security,2.035
+proceedings - international symposium on discharges and electrical insulation in vacuum isdeiv,-
+international journal of electronic government research,0.618
+journal of communications and networks,1.031
+journal of web engineering, Inc."
+bt technology journal,-
+international journal of web based communities,0.619
+journal of interconnection networks,0.225
+international journal of information and communication technology,0.33
+international journal of information technology and management,0.132
+journal of high speed networks,0.511
+journal of microelectronics and electronic packaging,0.294
+ieee distributed systems online,-
+international journal of electronic security and digital forensics,0.521
+international journal of internet protocol technology,0.33
+international journal of e-collaboration,0.763
+journal of research and practice in information technology,0.693
+iee communications engineer,-
+international journal of communication networks and information security, Kohat University of Science and Technology"
+ieee pacific rim conference on communications computers and signal processing conference proceedings,-
+journal of china universities of posts and telecommunications,0.494
+international journal of mobile computing and multimedia communications,0.226
+electronics and communications in japan part ii electronics english translation of denshi tsushin gakkai ronbunshi,-
+neural parallel and scientific computations,-
+journal of information and knowledge management,0.129
+international journal of high performance computing and networking,1.011
+complexity international,-
+synthesis lectures on network simulation,0.129
+lecture notes of the institute for computer sciences social-informatics and telecommunications engineering,-
+international conference on communication technology proceedings icct,-
+electronics and communications in japan part i communications english translation of denshi tsushin gakkai ronbunshi,-
+electronics and communications in japan,0.214
+international journal of business data communications and networking,0.075
+china communications,0.564
+international journal of information and computer security,0.844
+international journal of internet technology and secured transactions,0.227
+journal of technology in counseling,-

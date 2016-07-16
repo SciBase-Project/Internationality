@@ -39,7 +39,7 @@ for item in oSNIP["Journal"] :
 Jlist = Jlist_temp
 print len(Jlist)
 
-# NLIQ
+# NLIQimpoer
 list_of_cols = [0,1]
 NLIQ = pd.read_csv("../../output/NLIQ_ACM_IEEE.csv", usecols=list_of_cols,header=0)
 
@@ -75,6 +75,21 @@ for item in IC["Journal"] :
 Jlist = Jlist_temp
 print len(Jlist)
 
+# OCQ
+list_of_cols = [0,1]
+OCQ = pd.read_csv("../../output/OCQ.csv", usecols=list_of_cols,header=0)
+
+OCQ.reset_index(inplace = True, drop = True)
+
+
+Jlist_temp = []
+for item in OCQ["Journal"] :
+	if item.lower() in Jlist :
+		Jlist_temp.append(item)
+
+Jlist = Jlist_temp
+print len(Jlist)
+
 # Cobb-Douglas Part
 Jvalues = {} #[SNIP,oSNIP,NLIQ,IC]
 Y = {}
@@ -83,6 +98,7 @@ Slist = []
 oSlist = []
 Nlist = []
 Ilist = []
+Olist = []
 
 for J in Jlist :
 
@@ -94,11 +110,14 @@ for J in Jlist :
 	Nlist.append(N)
 	I = IC[IC["Journal"] == J]["2010"].values[0]
 	Ilist.append(I)
+	O = OCQ[OCQ["Journal"] == J]["OCQ"].values[0]
+	Olist.append(O)
 	
 Smax = max(Slist)
 oSmax = max(oSlist)
 Nmax = max(Nlist)
 Imax = max(Ilist)
+Omax = max(Olist)
 
 for J in Jlist :
 
@@ -106,10 +125,11 @@ for J in Jlist :
 	oS = oSNIP[oSNIP["Journal"] == J]["SNIP"].values[0]
 	N = NLIQ[NLIQ["Journal"] == J]["NLIQ"].values[0]
 	I = IC[IC["Journal"] == J]["2010"].values[0]
+	O = OCQ[OCQ["Journal"] == J]["OCQ"].value[0]
 	
-	Jvalues[J] =  [S/Smax,oS/oSmax,N/Nmax,I/Imax]#,oSNIP.get_value(J,"SNIP")]
+	Jvalues[J] =  [S/Smax,oS/oSmax,N/Nmax,I/Imax,O/Omax]#,oSNIP.get_value(J,"SNIP")]
 
-	for i in range(0,3) :
+	for i in range(0,4) :
 		Y[J] = Jvalues[J][i] ** 0.1
 
 count = len(Y)

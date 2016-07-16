@@ -1,0 +1,33 @@
+aging cell,1.293
+ageing research reviews,2.058
+neurobiology of aging,1.2
+mechanisms of ageing and development,0.887
+psychology and aging,1.408
+journals of gerontology - series a biological sciences and medical sciences,1.631
+aging,Medicine
+experimental gerontology,1.069
+age and ageing,1.917
+biogerontology,0.796
+rejuvenation research,0.711
+interdisciplinary topics in gerontology,0.415
+immunity and ageing,0.869
+gerontology,1.112
+age,0.813
+experimental aging research,0.559
+international journal of aging and human development, Inc."
+annals of human biology,0.816
+aging clinical and experimental research,-
+archives of gerontology and geriatrics,1.022
+international journal of cosmetic science,0.884
+international journal of alzheimers disease,0.668
+oxidative medicine and cellular longevity,0.865
+current aging science,-
+frontiers in aging neuroscience,0.888
+revista espanola de geriatria y gerontologia,0.369
+neuroembryology and aging,-
+geriatrics and aging,-
+giornale di gerontologia,0.003
+research and practice in alzheimers disease,-
+annual review of gerontology and geriatrics,0.596
+hallym international journal of aging,-
+revista multidisciplinar de gerontologia,0

@@ -1,0 +1,69 @@
+foundations and trends in machine learning,10.644
+web semantics,7.486
+ieee transactions on systems man and cybernetics part b cybernetics,-
+proceedings of the acm conference on computer supported cooperative work cscw,-
+knowledge and information systems,2.515
+user modelling and user-adapted interaction,5.63
+journal of the american society for information science and technology,1.814
+acm transactions on computer-human interaction, Inc."
+ieee transactions on systems man and cybernetics part asystems and humans,-
+ieee transactions on human-machine systems, Man
+international journal of computer-supported collaborative learning,2.042
+computers in human behavior,2.296
+international journal of human computer studies,2.129
+topics in cognitive science,1.846
+computer speech and language,1.716
+cyberpsychology behavior and social networking,-
+foundations and trends in human-computer interaction,5.741
+iet control theory and applications,1.427
+interacting with computers,2.268
+human-computer interaction,2.948
+new review of information networking,1.381
+science technology and human values,1.626
+international journal of intelligent systems,1.486
+acm transactions on accessible computing, Inc."
+conference on human factors in computing systems - proceedings,-
+games and culture,1.534
+international conference on intelligent user interfaces proceedings iui,-
+presence teleoperators and virtual environments,0.817
+universal access in the information society,1.135
+behaviour and information technology,1.158
+advanced robotics,0.933
+ieee transactions on haptics,2.329
+computer methods in biomechanics and biomedical engineering,0.491
+international journal of human-computer interaction,1.561
+computers and graphics,1.396
+virtual reality,1.697
+first monday,1.076
+journal of visual languages and computing,1.441
+displays,1.188
+cognition technology and work,-
+acm international conference on computer graphics virtual reality and visualisation in africa,-
+webology,0.686
+journal of interactive online learning,0.681
+journal of interactive learning research,0.366
+ai and society,0.366
+icga journal,0.752
+journal of internet commerce,0.481
+connection science,1.019
+journal of software,0.504
+journal of organizational and end user computing,0.666
+electronic commerce research,2.487
+journal of information science and engineering,0.811
+interaction studies,0.552
+crosstalk,0.242
+journal of internet banking and commerce,0.309
+international journal of cognitive informatics and natural intelligence,0.483
+journal of information systems,1.629
+human it,2.383
+entertainment computing,1.615
+journal of advanced computational intelligence and intelligent informatics,0.539
+digital creativity,0.845
+international journal of technology and human interaction,0.222
+international journal of speech technology,0.953
+journal on multimodal user interfaces,1.062
+fujitsu scientific and technical journal,0.616
+international journal of computer games technology,0.379
+australasian journal of information systems, The University of Queensland"
+moscow university computational mathematics and cybernetics,0.468
+international journal of imaging and robotics,0.784

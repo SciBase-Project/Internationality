@@ -1,0 +1,371 @@
+ieee transactions on pattern analysis and machine intelligence,8.532
+journal of the american mathematical society,2.72
+ieee signal processing magazine,5.205
+molecular systems biology,3.181
+applied and computational harmonic analysis,2.833
+journal of econometrics,2.17
+biometrika,1.669
+communications on pure and applied mathematics,2.49
+foundations and trends in communications and information theory,2.442
+siam review,4.707
+ieee transactions on wireless communications,2.344
+journal of the european mathematical society,2.117
+international journal of robotics research,3.741
+mathematical finance,2.176
+journal of numerical analysis industrial and applied mathematics,-
+journal of computer and system sciences,2.274
+journal of informetrics,1.724
+bulletin of the american mathematical society,2.19
+journal des mathematiques pures et appliquees,1.61
+handbook of differential equations evolutionary equations,-
+foundations of computational mathematics,2.344
+journal of cryptology,3.57
+communications in partial differential equations,1.444
+journal fur die reine und angewandte mathematik,-
+ieee transactions on fuzzy systems,4.853
+dynamics of partial differential equations,1.038
+siam journal on mathematical analysis,1.159
+combinatorics probability and computing,1.208
+international journal for numerical methods in engineering,1.797
+computational mechanics,1.595
+transactions of the american mathematical society,1.582
+calculus of variations and partial differential equations,1.564
+international journal of approximate reasoning,3.042
+numerische mathematik,1.369
+journal of fourier analysis and applications,1.284
+biology direct,1.068
+siam journal on control and optimization,1.507
+biometrics,1.315
+mathematics of computation,1.76
+archives of computational methods in engineering,2.568
+random structures and algorithms,1.252
+journal of mathematical imaging and vision,2.266
+ima journal of numerical analysis,1.554
+siam journal of scientific computing,1.9
+journal of nonlinear science,1.555
+ieee signal processing letters,2.053
+acm transactions on mathematical software, Inc."
+mathematics of control signals and systems,-
+algorithmica,1.479
+bmc systems biology,0.792
+annali di matematica pura ed applicata,0.955
+ergodic theory and dynamical systems,0.814
+mathematical models and methods in applied sciences,1.574
+ieee transactions on vehicular technology,2.535
+international journal of solids and structures,1.992
+bmc bioinformatics,1.065
+stochastic processes and their applications,1.351
+mathematical modelling and numerical analysis,1.689
+technometrics,1.88
+immunome research,0.966
+inverse problems,1.226
+nonlinear differential equations and applications,0.916
+chaos,Pergamon Press Ltd.
+nonlinearity,1.183
+communications in contemporary mathematics,0.915
+advances in differential equations, Inc."
+control engineering practice,2.329
+journal of mathematical analysis and applications,1.301
+journal of applied logic,0.863
+computational statistics and data analysis,1.427
+psychometrika,1.462
+advances in computational mathematics,1.45
+journal of economic dynamics and control,1.066
+discrete and continuous dynamical systems, Southwest Missouri State University"
+operations research letters,0.937
+journal of approximation theory,1.172
+forum mathematicum,1.162
+algorithms for molecular biology,1.181
+bit numerical mathematics,1.087
+discrete optimization,1.431
+reliability engineering and system safety,2.627
+pervasive and mobile computing,2.591
+nonlinear analysis theory methods and applications,-
+journal of complexity,2.38
+advances in calculus of variations,1.341
+journal of fixed point theory and applications,0.547
+match,1.38
+chemical engineering science,-
+journal of mathematical biology,1.196
+international journal for numerical methods in fluids,1.291
+journal of global optimization,1.221
+finite fields and their applications,-
+journal of non-newtonian fluid mechanics,1.211
+set-valued and variational analysis,1.338
+communications on pure and applied analysis,0.817
+numerical linear algebra with applications,1.227
+proceedings of the american mathematical society,0.997
+communications in nonlinear science and numerical simulation,1.998
+nonlinear analysis real world applications,1.787
+journal of optimization theory and applications,1.36
+computational optimization and applications,1.479
+theoretical and applied fracture mechanics,1.332
+designs codes and cryptography,-
+networks and heterogeneous media,0.676
+international journal of nonlinear sciences and numerical simulation,0.62
+journal of combinatorial optimization,1.003
+ieee international symposium on information theory - proceedings,-
+journal of statistical planning and inference,1.034
+journal of guidance control and dynamics,-
+ieeeacm transactions on computational biology and bioinformatics,1.144
+handbook of differential equations stationary partial differential equations,-
+numerical methods for partial differential equations,0.829
+journal of theoretical biology,0.969
+engineering analysis with boundary elements,1.6
+finite elements in analysis and design,1.834
+international journal of non-linear mechanics,1.625
+discrete applied mathematics,1.4
+advances in applied mathematics,1.117
+applied numerical mathematics,1.318
+bayesian analysis,1.515
+journal of mathematical fluid mechanics,1.631
+journal of computational and applied mathematics,1.547
+multidimensional systems and signal processing,1.308
+communications in mathematical sciences,0.84
+international journal of automation and computing,1.351
+nonlinear dynamics,Mathematics
+ima journal management mathematics,0.368
+advances in applied probability,0.987
+applied mathematics and computation,1.378
+optimization methods and software,1.585
+journal of intelligent transportation systems,1.227
+journal of mathematical cryptology,0.753
+applied mathematics letters,1.431
+european journal of applied mathematics,0.846
+journal of industrial and management optimization,0.942
+international journal for numerical methods in biomedical engineering,1.07
+integral transforms and special functions,0.919
+journal of mathematical economics,1.093
+siam journal on applied mathematics,1.147
+studies in applied mathematics,0.771
+discrete and continuous dynamical systems - series s,0.488
+international journal of structural stability and dynamics,0.859
+journal of time series analysis, Ltd"
+fixed point theory and applications,1.046
+infinite dimensional analysis quantum probability and related topics,-
+applied mathematical modelling,1.816
+optimization,0.882
+mathematics and computers in simulation,1.072
+journal of difference equations and applications,0.832
+differential and integral equations, Inc."
+mathematical biosciences,1.02
+numerical algorithms,1.416
+journal of mathematical psychology,1.8
+applied mathematics and optimization,1.21
+aequationes mathematicae,1.128
+zeitschrift fur angewandte mathematik und physik,-
+lifetime data analysis,0.938
+acta mathematica sinica english series,-
+international journal of bifurcation and chaos in applied sciences and engineering,0.754
+measurement science and technology,1.285
+journal of algebra and its applications,-
+international journal of biomathematics,0.632
+fixed point theory,0.795
+discrete and continuous dynamical systems - series b,0.665
+journal of statistical computation and simulation,0.983
+international journal of computational geometry and applications,1.51
+journal of agricultural biological and environmental statistics,-
+abstract and applied analysis,0.62
+journal of mathematical chemistry,0.767
+stochastic analysis and applications,0.529
+journal of the franklin institute,1.583
+international journal of wavelets multiresolution and information processing,-
+collectanea mathematica,1.059
+annals of mathematics and artificial intelligence,1.61
+complex analysis and operator theory,0.864
+stochastic models,0.772
+journal of mechanics of materials and structures,0.841
+international journal of circuit theory and applications,0.983
+mathematical inequalities and applications,0.666
+zeitschrift fur analysis und ihre anwendung,-
+journal of computational acoustics,0.853
+applications of mathematics,0.442
+asta advances in statistical analysis,0.912
+quarterly of applied mathematics,0.551
+journal of inverse and ill-posed problems,1.43
+advances in mathematics of communications,1.276
+mathematical biosciences and engineering,0.805
+journal of chemometrics,1.151
+topological methods in nonlinear analysis,0.534
+ecological informatics,1.346
+journal of mathematical modelling and algorithms,0.62
+engineering optimization,1.335
+ima journal of applied mathematics,0.723
+applicable algebra in engineering communications and computing,-
+informatica,0.695
+applied mathematical finance,0.72
+journal of strain analysis for engineering design,1.253
+international journal of applied mathematics and computer science,1.735
+theory in biosciences,1.008
+journal of ship research,1.657
+optimal control applications and methods,1.189
+utilitas mathematica,0.634
+circuits systems and signal processing,-
+handbook of differential equations ordinary differential equations,-
+quarterly journal of mechanics and applied mathematics,1.01
+inverse problems in science and engineering,0.871
+pacific journal of optimization, Inc"
+mathematical medicine and biology,0.787
+discussiones mathematicae - graph theory,0.853
+isa transactions,2.427
+journal of inequalities and applications,0.619
+results in mathematics,0.834
+bio systems,-
+algebra colloquium, Chinese Academy of Sciences"
+cryptography and communications,"
+journal of mathematical behavior,1.13
+international journal of applied cryptography,3.397
+measurement journal of the international measurement confederation,1.664
+nonlinear dynamics and systems theory,0.571
+chinese annals of mathematics series b,0.687
+international journal of numerical methods for heat and fluid flow,1.087
+eurasia journal of mathematics science and technology education,-
+microgravity science and technology,1.125
+mathematics in computer science,0.466
+scientific annals of computer science,0.899
+journal of computational and nonlinear dynamics,0.969
+journal of integral equations and applications,0.816
+applicable analysis and discrete mathematics,1.134
+advances in difference equations,0.696
+zamm zeitschrift fur angewandte mathematik und mechanik,-
+shuidonglixue yanjiu yu jinzhan  journal of hydrodynamics ser a,0.632
+electronic journal of qualitative theory of differential equations,0.519
+functional analysis and its applications,1.006
+computational and mathematical methods in medicine,0.481
+communications on applied nonlinear analysis,0.336
+computational and applied mathematics,0.543
+advances in applied clifford algebras,0.656
+electronic notes in discrete mathematics,0.252
+complex variables and elliptic equations,1.008
+journal of applied mathematics and mechanics,-
+applied and computational mathematics,1.207
+bla tter der dgfvm,-
+ima journal of mathematical control and information,0.445
+control and cybernetics,0.947
+communications in applied analysis, Inc."
+applied mathematics e - notes,0.329
+hangkong xuebaoacta aeronautica et astronautica sinica,1.281
+jixie gongcheng xuebaochinese journal of mechanical engineering,1.394
+acta applicandae mathematicae,0.895
+groups complexity cryptology,-
+acta biotheoretica,0.424
+advances in data analysis and classification,1.01
+international journal of shape modeling,-
+journal of mechanics,0.678
+international journal of modelling identification and control,-
+ricerche di matematica,0.657
+dynamics of continuous discrete and impulsive systems series a mathematical analysis,-
+acta scientiarum mathematicarum,0.46
+applied mathematics and mechanics,-
+lixue xuebaochinese journal of theoretical and applied mechanics,0.729
+journal of applied measurement, Press"
+applied sciences,0.182
+indian journal of pure and applied mathematics,0.428
+international journal of computer mathematics,0.777
+reliable computing,0.398
+electrical engineering,0.535
+japan journal of industrial and applied mathematics, Ltd."
+jisuan lixue xuebaochinese journal of computational mechanics,0.657
+advances in applied mathematics and mechanics,0.562
+ieice transactions on fundamentals of electronics communications and computer sciences,-
+fractals,0.695
+nonlinear dynamics psychology and life sciences,-
+ieee vehicular technology conference,-
+journal of applied mathematics and stochastic analysis,-
+compel - the international journal for computation and mathematics in electrical and electronic engineering,0.614
+logica universalis,0.466
+computational and mathematical organization theory,1.304
+jixie qiandujournal of mechanical strength,0.46
+applicable analysis,0.792
+australian journal of mathematical analysis and applications,0.232
+international journal of biometrics,0.458
+hangkong dongli xuebaojournal of aerospace power,0.709
+journal of applied mathematics and computing,0.884
+mathematical and computer modelling of dynamical systems,0.767
+kyungpook mathematical journal,0.535
+monte carlo methods and applications,0.374
+jisuan wulichinese journal of computational physics,0.407
+proceedings of spie - the international society for optical engineering,-
+qinghua daxue xuebaojournal of tsinghua university,0.363
+journal of inequalities in pure and applied mathematics,-
+dynamics of continuous discrete and impulsive systems series b applications and algorithms,-
+revista de la real academia de ciencias exactas fisicas y naturales - serie a matematicas,-
+journal of optical technology a translation of opticheskii zhurnal,0.576
+journal of mathematical sciences,0.383
+transport theory and statistical physics,0.645
+analysis in theory and applications,0.477
+journal of grey system,0.561
+dalian ligong daxue xuebaojournal of dalian university of technology,0.345
+journal of interdisciplinary mathematics,0.266
+international journal of mathematical education in science and technology,0.675
+jiqirenrobot,0.87
+acta mathematicae applicatae sinica,0.657
+journal of analysis and applications,0
+journal of applied mathematics and decision sciences,-
+journal of modern dynamics,1.459
+dongbei daxue xuebaojournal of northeastern university,0.242
+chinese journal of electronics,0.703
+economic computation and economic cybernetics studies and research,0.212
+advances in mathematical physics,0.436
+journal of computer and systems sciences international,1.097
+asian journal of mathematics,1.002
+journal of applied analysis,0.465
+journal of biological systems,0.359
+upb scientific bulletin series a applied mathematics and physics,-
+journal of japan industrial management association,0.14
+model assisted statistics and applications,0.525
+ieee international test conference tc,-
+measurement techniques,0.861
+international journal of mathematics and computers in simulation,0.816
+differential equations and dynamical systems,0.554
+nonlinear analysis modelling and control,0.96
+ieee international conference on fuzzy systems,-
+differential equations and nonlinear mechanics,-
+communications of the korean mathematical society,0.643
+fundamental and applied mathematics,-
+mathematical communications,0.499
+applied mathematics,0.548
+bioinformatics and biology insights,0.643
+handbook of numerical analysis,0.448
+game studies,1.079
+applied mathematics research express,0.77
+international journal of computing science and mathematics,1.283
+international journal of applied mathematics and statistics, Social & Economic Research"
+discrete mathematics and applications,0.208
+applied mathematics and information sciences,0.827
+journal of applied mathematics,0.481
+mathematical and computational forestry and natural-resource sciences,0.584
+international journal of pure and applied mathematics,0.635
+international journal of simulation and process modelling,0.749
+journal of institute of control robotics and systems,-
+handbook of statistics,0.27
+mathematical and computational applications,0.692
+international journal of grid and utility computing,0.697
+international journal of advanced intelligence paradigms,0.374
+measurement and control,0.34
+journal for geometry and graphics,0.754
+gamm mitteilungen,0.445
+mathematical methods in electromagnetic theory mmet conference proceedings,-
+cryptologia,1.014
+applied mathematical sciences,0.853
+neural parallel and scientific computations,-
+journal of contemporary mathematical analysis,0.421
+revista internacional de metodos numericos para calculo y diseno en ingenieria,0.568
+american journal of mathematical and management sciences, Inc."
+international journal of power and energy systems,0.256
+analele stiintifice ale universitatii ovidius constanta seria matematica,-
+international journal of mathematical models and methods in applied sciences,0.575
+international journal of mathematical modelling and numerical optimisation,0.772
+sid structural integrity and durability,-
+international journal of agricultural and statistical sciences,0.409
+journal of applied and industrial mathematics,0.349
+iaeng international journal of applied mathematics,0.596
+electronics and communications in japan,0.214
+modeling simulation and applications,-
+formalized mathematics,0.34
+memoirs of the american mathematical society,2.306
+journal of online mathematics and its applications,-
+mathematics and visualization,-
+loci,0
+qualitative theory of dynamical systems,1.383
+dlr deutsches zentrum fur luft- und raumfahrt ev - forschungsberichte,-

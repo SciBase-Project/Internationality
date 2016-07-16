@@ -1,0 +1,179 @@
+cancer cell,4.368
+nature reviews cancer,8.808
+journal of clinical oncology,4.228
+plos genetics,1.606
+biochimica et biophysica acta - reviews on cancer,1.806
+cell host and microbe,1.864
+cancer and metastasis reviews,1.771
+journal of the national cancer institute,3.577
+cancer research,1.933
+drug resistance updates,2.997
+oncogene,1.57
+clinical cancer research,1.933
+leukemia,1.822
+seminars in cancer biology,2.181
+breast cancer research,1.47
+angiogenesis,1.237
+neoplasia,-
+molecular cancer research,1.115
+oncologist,1.593
+advances in cancer research,1.078
+molecular cancer therapeutics,1.392
+cancer,1.855
+international journal of radiation oncology biology physics,1.69
+carcinogenesis,1.311
+international journal of cancer,1.408
+genes chromosomes and cancer,1.141
+british journal of cancer,1.436
+molecular oncology,1.23
+epigenetics,1
+journal of mammary gland biology and neoplasia,1.264
+breast cancer research and treatment,1.248
+current cancer drug targets,0.95
+clinical and experimental metastasis,0.956
+european journal of cancer,Pergamon Press Ltd.
+neuro-oncology,1.787
+apoptosis  an international journal on programmed cell death,1.166
+cancer science,1.086
+epigenomics,0.682
+molecular cancer,1.23
+seminars in radiation oncology, Ltd."
+cancer letters,1.163
+endocrine-related cancer,1.414
+cancer prevention research,1.233
+cellular oncology,-
+stem cell reviews and reports,1.096
+cancer immunology and immunotherapy,-
+journal of immunotherapy,-
+molecular carcinogenesis,1.041
+differentiation,-
+experimental hematology,0.684
+journal of the national cancer institute monographs,0.772
+current opinion in oncology,1.274
+bmc cancer,1.141
+cancer causes and control,0.986
+cancer immunity,0.57
+lung cancer,1.317
+oncology,0.131
+current medicinal chemistry - anti-cancer agents,0.701
+cancer gene therapy,0.627
+environmental carcinogenesis and ecotoxicology reviews,-
+cancer microenvironment,1.095
+cancer journal,1.079
+cancer biology and therapy,0.923
+international journal of oncology,0.825
+virus research,0.841
+cancer chemotherapy and pharmacology,0.892
+journal of neuro-oncology,1.076
+gastric cancer,2.664
+oral oncology,1.371
+nuclear medicine and biology,0.914
+recent patents on anti-cancer drug discovery,0.757
+journal of cancer research and clinical oncology,1.028
+clinical breast cancer,0.867
+advances in biological regulation,0.729
+cancer cytopathology,-
+international journal of hyperthermia,1.029
+molecular imaging and biology,0.957
+cancer cell international,0.813
+prostate cancer and prostatic diseases,1.017
+nitric oxide - biology and chemistry,1.129
+cancer investigation,0.672
+melanoma research,0.617
+journal of carcinogenesis,1.039
+clinical lung cancer,0.892
+translational oncology,0.757
+journal of hematology and oncology,1.32
+future oncology,0.585
+anti-cancer drugs,0.655
+european journal of cancer prevention,0.884
+american journal of clinical oncology,0.822
+leukemia and lymphoma,0.746
+familial cancer,0.614
+tumor biology,0.897
+nutrition and cancer,0.745
+hematological oncology,0.815
+cytotherapy,0.902
+journal of experimental and clinical cancer research,1.321
+current problems in cancer,0.193
+japanese journal of clinical oncology,1.083
+cancer epidemiology,0.921
+oncology reports,0.661
+leukemia research,0.736
+cancer genetics and cytogenetics,-
+cancer genomics and proteomics,0.645
+pathology oncology research,0.707
+anticancer research,0.626
+journal of experimental therapeutics and oncology, Inc."
+cancer biotherapy and radiopharmaceuticals,0.653
+journal of oral pathology and medicine,1.132
+journal of biological regulators and homeostatic agents,0.477
+clinical lymphoma myeloma and leukemia,-
+infectious agents and cancer,0.972
+technology in cancer research and treatment,0.673
+targeted oncology,0.929
+neoplasma,0.67
+cancer biomarkers,0.503
+cancer informatics,0.645
+medical oncology, Inc."
+american journal of translational research,0.843
+brain tumor pathology,0.677
+recent results in cancer research,0.693
+international journal of biological markers,0.581
+oncology research,0.445
+clinical and translational oncology,0.597
+critical reviews in oncogenesis,0.813
+breast disease,0.418
+update on cancer therapeutics,-
+oncology,0.131
+supportive cancer therapy,-
+iarc monographs on the evaluation of carcinogenic risks to humans,0.01
+tumori,0.459
+oncology research and treatment,0.408
+eksperimentalnaya onkologiya,0.753
+human cell,0.542
+asian pacific journal of cancer prevention,1.007
+progress in experimental tumor research,-
+bulletin du cancer,0.249
+cancer treatment and research,0.311
+journal of cancer molecules,-
+journal of buon,0.412
+cancer therapy,0.657
+international journal of cancer research,0.492
+european journal of cancer supplement,-
+oncology reviews,0.208
+molecular medicine reports,0.523
+translational oncogenomics,0.502
+current hematologic malignancy reports,0.594
+breast cancer basic and clinical research,1.023
+journal of the egyptian national cancer institute,0.539
+current cancer therapy reviews,0.136
+reports of practical oncology and radiotherapy,0.524
+iranian journal of cancer prevention,0.161
+journal of breast cancer,0.78
+open clinical cancer journal,2.218
+clinical and experimental medical letters,0.116
+cancer forum,0.05
+chinese journal of cancer research,0.768
+japanese journal of cancer and chemotherapy,0.046
+advances in gastrointestinal cancers,-
+open cancer journal,0.509
+journal of cell and molecular biology,0.619
+advances in breast cancer,-
+chinese journal of lung cancer,0.327
+voprosy onkologii,0.082
+nowotwory,0.135
+gaceta mexicana de oncologia,0.039
+biotherapy,0
+breast cancer online,-
+tumor research,-
+onkologia polska,0.192
+chinese journal of cancer biotherapy,0.043
+tumor,0.077
+turkish journal of cancer,-
+chinese journal of clinical oncology, Zhongguo Kang-Ai Xiehui/Tianjin Cancer Institute
+ecancermedicalscience,0.345
+journal of leukemia and lymphoma,0.007
+journal of dalian medical university,0.006
+annals of cancer research and therapy,0.003
+journal of practical oncology,0.013

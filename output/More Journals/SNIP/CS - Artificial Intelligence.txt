@@ -1,0 +1,142 @@
+foundations and trends in machine learning,10.644
+ieee transactions on pattern analysis and machine intelligence,8.532
+international journal of computer vision,5.342
+journal of the acm, Inc."
+journal of automated reasoning,2.258
+journal of artificial intelligence research, Inc."
+journal of memory and language,2.149
+cognitive psychology,2.347
+journal of machine learning research,2.49
+computational linguistics,4.921
+international journal of robotics research,3.741
+artificial intelligence,5.192
+ieee transactions on fuzzy systems,4.853
+journal of scheduling,1.65
+machine learning,2.708
+ieee intelligent systems,2.362
+pattern recognition,3.524
+autonomous agents and multi-agent systems,2.49
+knowledge and information systems,2.515
+international journal of approximate reasoning,3.042
+information sciences,3.242
+journal of heuristics,1.947
+journal of the american society for information science and technology,1.814
+fuzzy sets and systems,2.225
+theory and practice of logic programming,1.942
+ieee transactions on neural networks and learning systems,3.279
+ieee transactions on human-machine systems, Man
+cognitive science,1.805
+knowledge engineering review,1.771
+autonomous robots,2.917
+physics of life reviews,3.331
+constraints,2.848
+topics in cognitive science,1.846
+artificial intelligence and law,1.469
+pattern recognition letters,2.212
+ieee computational intelligence magazine,2.426
+expert systems with applications,2.534
+swarm intelligence,3.238
+pattern analysis and applications,1.039
+evolutionary intelligence,0.506
+ai communications,1.709
+knowledge-based systems,2.757
+journal of parallel and distributed computing,1.991
+engineering applications of artificial intelligence,2.528
+multidimensional systems and signal processing,1.308
+fuzzy optimization and decision making,2.016
+international journal of intelligent systems,1.486
+parallel computing,2.141
+neural networks,1.876
+web intelligence and agent systems,0.705
+neurocomputing,1.762
+artificial intelligence for engineering design analysis and manufacturing aiedam,-
+journal of intelligent manufacturing,1.645
+applied intelligence,1.965
+design studies,2.57
+advanced engineering informatics,2.431
+artificial intelligence in medicine,1.869
+journal of semantics,1.754
+networks and spatial economics,1.48
+integrated computer-aided engineering,1.287
+perception,0.577
+international journal of uncertainty fuzziness and knowlege-based systems,-
+journal of intelligent and robotic systems theory and applications,1.54
+natural language engineering,2.065
+international journal of pattern recognition and artificial intelligence,0.782
+proceedings - ieee international conference on robotics and automation,-
+proceedings of the national conference on artificial intelligence,-
+journal of intelligent information systems,1.341
+annals of mathematics and artificial intelligence,1.61
+journal of pragmatics,1.307
+intelligent data analysis,0.986
+intelligent service robotics,1.418
+neural processing letters,0.995
+expert systems,1.117
+international journal of humanoid robotics,0.776
+ai magazine,2.368
+wseas transactions on systems and control,0.709
+minds and machines,1.394
+journal of intelligent and fuzzy systems,1.229
+cognitive systems research,1.042
+microprocessors and microsystems,1.094
+machine translation,1.693
+cognitive processing,0.763
+international journal of fuzzy systems,1.126
+ieee transactions on computational intelligence and ai in games,2.811
+journal of consciousness studies,0.505
+computational intelligence,1.349
+bulletin of the polish academy of sciences technical sciences,1.213
+ieee transactions on autonomous mental development,1.822
+cybernetics and systems,1.037
+frontiers in neurorobotics,1.21
+kybernetika,0.777
+applied artificial intelligence,0.823
+journal of experimental and theoretical artificial intelligence,0.978
+ieice transactions on information and systems,0.444
+ai and society,0.366
+artificial life,1.158
+international journal of software engineering and knowledge engineering,1.013
+neural computing and applications,1.021
+synthesis lectures on artificial intelligence and machine learning,2.467
+international journal on artificial intelligence tools,0.513
+international journal of advanced robotic systems,0.698
+informatica,0.695
+neural network world,0.482
+connection science,1.019
+kongzhi yu juececontrol and decision,0.786
+journal of software,0.504
+kybernetes,0.47
+artificial intelligence review,2.302
+iranian journal of fuzzy systems,0.729
+international journal of machine consciousness,1.065
+international journal of robotics and automation,0.288
+journal of artificial intelligence,0.547
+artificial life and robotics,0.38
+journal of multimedia,1.324
+international journal of mobile network design and innovation,0.553
+jiqirenrobot,0.87
+inteligencia artificial,0.058
+studies in computational intelligence,0.376
+international journal of cognitive informatics and natural intelligence,0.483
+international journal of artificial intelligence,0.907
+journal of computer science,0.921
+springer tracts in advanced robotics,0.299
+ieee international conference on fuzzy systems,-
+journal of advanced computational intelligence and intelligent informatics,0.539
+psyche,-
+proceedings of the international joint conference on neural networks,-
+revue dintelligence artificielle,0.245
+foundations of artificial intelligence,-
+cognitive technologies,0
+frontiers in artificial intelligence and applications,0.234
+neural parallel and scientific computations,-
+intelligent automation and soft computing,0.262
+moshi shibie yu rengong zhinengpattern recognition and artificial intelligence,0.496
+complexity international,-
+ogai journal oesterreichische gesellschaft fuer artificial intelligence,-
+proceedings of the iasted international conference on intelligent systems and control,-
+transactions of the japanese society for artificial intelligence,0.196
+journal of intelligent systems,0.276
+understanding complex systems,0.066
+international journal of bio-science and bio-technology,0.971
+civil-comp proceedings,-

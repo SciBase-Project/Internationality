@@ -50,18 +50,17 @@ journal_list = []
 article_list = list(db['publications'].find())
 count = 0
 
-system("brew services start mongodb")
-
 print(len(article_list))
 
+system("brew services stop mongodb")
+
 for article in article_list:
-    count += 1
     data[article['index']] = dict(article)
     try:
         if article['publication'] in journal_variations:
             data[article['index']]['publication'] = jmap[article['publication']]
             article['publication'] = jmap[article['publication']]
-            #data[article['publication']] = jmap[article['publication']]
+            print(article['publication'] + ' ' + str(article['authors']))
     except KeyError:
         pass
     try:
@@ -83,6 +82,16 @@ for article in article_list:
         pass
     count += 1
     print('article ' + str(count) + ' done')
+
+for something in journal_list:
+    print(something)
+    for author in journal_author_dict[something]:
+        print(author)
+for author in author_total_cites:
+    print(str(author) + str(author_total_cites[author]))
+    print(str(author) + str(author_self_cites[author]))
+    print(str(author) + str(author_paper_count[author]))
+"""
 
 # with open('../data/OCQ_temp_data/Journal_author.json','w') as outfile:
 #     json.dump(journal_author_dict,outfile)
@@ -145,3 +154,4 @@ with open('../output/calc_ocq.csv','w') as outfile:
 # 		outfile.write(text_to_id(author) + ',' + str(author_total_cites[author]) + ',' + str(author_self_cites[author]) + '\n')
 # 		if author_self_cites[author]!=0:
 # 	 		print(text_to_id(author) + ' ' + str(author_total_cites[author]) + ' ' + str(author_self_cites[author]) +' '+ str(author_paper_count[authorau]))
+"""
