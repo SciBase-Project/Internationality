@@ -1,0 +1,149 @@
+acm transactions on internet technology
+acm transactions on sensor networks
+acm transactions on the web
+acta informatica
+ad hoc networks
+advances in information security
+advances in mathematics of communications
+biomedical instrumentation and technology
+bit numerical mathematics
+china communications
+cluster computing
+computer communications
+computer graphics forum
+computer networks
+computing and informatics
+concurrency computation practice and experience
+cryptography and communications
+data mining and knowledge discovery
+distributed computing
+electronic commerce research and applications
+electronics and communications in japan
+eurasip journal on wireless communications and networking
+first monday
+foundations and trends in communications and information theory
+foundations and trends in networking
+future generation computer systems
+ieee communications magazine
+ieee intelligent systems
+ieee internet computing
+ieee journal on selected areas in communications
+ieee network
+ieee security and privacy
+ieee transactions on human-machine systems
+ieee transactions on information forensics and security
+ieee transactions on mobile computing
+ieee transactions on network and service management
+ieee transactions on neural networks and learning systems
+ieee transactions on services computing
+ieee transactions on vehicular technology
+ieice transactions on communications
+iet information security
+information security technical report
+information systems frontiers
+information systems journal
+information systems research
+international journal for multiscale computational engineering
+international journal of ad hoc and ubiquitous computing
+international journal of applied cryptography
+international journal of business data communications and networking
+international journal of communication networks and distributed systems
+international journal of communication networks and information security
+international journal of communication systems
+international journal of computer applications in technology
+international journal of distance education technologies
+international journal of distributed sensor networks
+international journal of e-collaboration
+international journal of electronic government research
+international journal of electronic security and digital forensics
+international journal of grid and high performance computing
+international journal of high performance computing and networking
+international journal of information and communication technology
+international journal of information and computer security
+international journal of information management
+international journal of information security
+international journal of information technology and management
+international journal of internet manufacturing and services
+international journal of internet protocol technology
+international journal of internet technology and secured transactions
+international journal of mobile communications
+international journal of mobile computing and multimedia communications
+international journal of mobile network design and innovation
+international journal of network management
+international journal of network security
+international journal of networking and virtual organisations
+international journal of neural systems
+international journal of security and networks
+international journal of sensor networks
+international journal of software engineering and knowledge engineering
+international journal of telemedicine and applications
+international journal of web and grid services
+international journal of web based communities
+international journal of web engineering and technology
+international journal of web information systems
+international journal of web services research
+international journal of wireless information networks
+internet and higher education
+journal of asynchronous learning network
+journal of china universities of posts and telecommunications
+journal of communications and networks
+journal of computer and system sciences
+journal of computer and systems sciences international
+journal of computer information systems
+journal of computer science
+journal of computer security
+journal of computer-mediated communication
+journal of electronic commerce in organizations
+journal of emerging technologies in web intelligence
+journal of grid computing
+journal of heuristics
+journal of high speed networks
+journal of information and knowledge management
+journal of intelligent information systems
+journal of interconnection networks
+journal of internet banking and commerce
+journal of internet technology
+journal of location based services
+journal of microelectronics and electronic packaging
+journal of network and computer applications
+journal of network and systems management
+journal of networks
+journal of optical communications and networking
+journal of parallel and distributed computing
+journal of research and practice in information technology
+journal of technology in human services
+journal of the franklin institute
+journal of the institute of telecommunications professionals
+journal of web engineering
+journal on chain and network science
+ksii transactions on internet and information systems
+microprocessors and microsystems
+mobile information systems
+mobile networks and applications
+multimedia systems
+multimedia tools and applications
+networks
+networks and spatial economics
+neural processing letters
+new generation computing
+new review of information networking
+ntt technical review
+optical switching and networking
+parallel computing
+peer-to-peer networking and applications
+performance evaluation
+photonic network communications
+problems of information transmission
+real-time systems
+security and communication networks
+semantic web and information systems
+synthesis lectures on network simulation
+systems engineering
+telematics and informatics
+universal access in the information society
+web semantics
+wireless communications and mobile computing
+wireless networks
+world wide web
+wseas transactions on communications
+wseas transactions on signal processing
